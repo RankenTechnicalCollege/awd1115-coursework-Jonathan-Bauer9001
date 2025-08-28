@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|solutionrelative:project9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project9\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|solutionrelative:project9\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project9\\pancake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|solutionrelative:project9\\pancake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project9\\corner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|solutionrelative:project9\\corner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project9\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|solutionrelative:project9\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project9\\iturnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D9BFE-1D07-4ADB-8CCF-F3ED8C93612F}|Project9\\Project9.csproj|solutionrelative:project9\\iturnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F258677-8A89-4BDC-BF13-78055C85853D}|Project8\\Project8.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F258677-8A89-4BDC-BF13-78055C85853D}|Project8\\Project8.csproj|solutionrelative:project8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F258677-8A89-4BDC-BF13-78055C85853D}|Project8\\Project8.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project8\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F258677-8A89-4BDC-BF13-78055C85853D}|Project8\\Project8.csproj|solutionrelative:project8\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D027417-1C83-4B51-AFBB-0FF1657970D6}|Project7\\Project7.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D027417-1C83-4B51-AFBB-0FF1657970D6}|Project7\\Project7.csproj|solutionrelative:project7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5367DB7-BA06-4FF9-B636-E64EAAA4C8EF}|Project6\\Project6.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5367DB7-BA06-4FF9-B636-E64EAAA4C8EF}|Project6\\Project6.csproj|solutionrelative:project6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4EB3BD-AFA3-4D6A-A373-010C8495D8EE}|Project5\\Project5.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4EB3BD-AFA3-4D6A-A373-010C8495D8EE}|Project5\\Project5.csproj|solutionrelative:project5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{564C46A7-48EB-4E32-848C-CE12F09A9E42}|Project4\\Project4.csproj|c:\\school repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch01\\csharpcrashcourse\\project4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{564C46A7-48EB-4E32-848C-CE12F09A9E42}|Project4\\Project4.csproj|solutionrelative:project4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,24 +70,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 173,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\Page.cs",
+              "RelativeDocumentMoniker": "Project9\\Page.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\Page.cs",
+              "RelativeToolTip": "Project9\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:49:06.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Corner.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\Corner.cs",
+              "RelativeDocumentMoniker": "Project9\\Corner.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\Corner.cs",
+              "RelativeToolTip": "Project9\\Corner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:48:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pancake.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\Pancake.cs",
+              "RelativeDocumentMoniker": "Project9\\Pancake.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\Pancake.cs",
+              "RelativeToolTip": "Project9\\Pancake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:48:15.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Leaf.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\Leaf.cs",
+              "RelativeDocumentMoniker": "Project9\\Leaf.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\Leaf.cs",
+              "RelativeToolTip": "Project9\\Leaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:47:50.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITurnable.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\ITurnable.cs",
+              "RelativeDocumentMoniker": "Project9\\ITurnable.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\ITurnable.cs",
+              "RelativeToolTip": "Project9\\ITurnable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:47:06.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\Program.cs",
+              "RelativeDocumentMoniker": "Project9\\Program.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project9\\Program.cs",
+              "RelativeToolTip": "Project9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:29:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project8\\Cart.cs",
+              "RelativeDocumentMoniker": "Project8\\Cart.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project8\\Cart.cs",
+              "RelativeToolTip": "Project8\\Cart.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwDQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:09:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project8\\Program.cs",
+              "RelativeDocumentMoniker": "Project8\\Program.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project8\\Program.cs",
+              "RelativeToolTip": "Project8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:03:48.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project7\\Program.cs",
+              "RelativeDocumentMoniker": "Project7\\Program.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project7\\Program.cs",
+              "RelativeToolTip": "Project7\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:04:37.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project6\\Program.cs",
+              "RelativeDocumentMoniker": "Project6\\Program.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project6\\Program.cs",
+              "RelativeToolTip": "Project6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:01:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project5\\Program.cs",
+              "RelativeDocumentMoniker": "Project5\\Program.cs",
+              "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project5\\Program.cs",
+              "RelativeToolTip": "Project5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:59:04.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project4\\Program.cs",
               "RelativeDocumentMoniker": "Project4\\Program.cs",
               "ToolTip": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project4\\Program.cs",
               "RelativeToolTip": "Project4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T17:23:37.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project3\\Program.cs",
               "RelativeDocumentMoniker": "Project3\\Program.cs",
@@ -51,12 +238,11 @@
               "RelativeToolTip": "Project3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T17:02:43.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T17:02:43.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project2\\Program.cs",
               "RelativeDocumentMoniker": "Project2\\Program.cs",
@@ -64,12 +250,11 @@
               "RelativeToolTip": "Project2\\Program.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAFYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:27:49.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:27:49.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\School Repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH01\\CSharpCrashCourse\\Project1\\Program.cs",
               "RelativeDocumentMoniker": "Project1\\Program.cs",
@@ -77,8 +262,7 @@
               "RelativeToolTip": "Project1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T16:08:52.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:08:52.909Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\bin\Debug\net8.0\Project9.exe
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\bin\Debug\net8.0\Project9.deps.json
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\bin\Debug\net8.0\Project9.runtimeconfig.json
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\bin\Debug\net8.0\Project9.dll
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\bin\Debug\net8.0\Project9.pdb
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\obj\Debug\net8.0\Project9.GeneratedMSBuildEditorConfig.editorconfig
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\obj\Debug\net8.0\Project9.AssemblyInfoInputs.cache
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\obj\Debug\net8.0\Project9.AssemblyInfo.cs
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\obj\Debug\net8.0\Project9.csproj.CoreCompileInputs.cache
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\obj\Debug\net8.0\Project9.sourcelink.json
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\obj\Debug\net8.0\Project9.dll
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\obj\Debug\net8.0\refint\Project9.dll
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\obj\Debug\net8.0\Project9.pdb
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\obj\Debug\net8.0\Project9.genruntimeconfig.cache
+C:\School Repos\Ranken\awd1115-coursework-Jonathan-Bauer9001\Labs\CH01\CSharpCrashCourse\Project9\obj\Debug\net8.0\ref\Project9.dll
