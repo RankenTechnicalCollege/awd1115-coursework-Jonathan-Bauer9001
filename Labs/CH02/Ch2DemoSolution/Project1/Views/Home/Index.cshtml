@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model FutureValueModel
+@{
+   Layout = "_Layout";
+}
+        <h1>Future Value Calculator</h1>
+        <form asp-action="Index" method="post">
+            <div asp-validation-summary="All"></div>
+            <div>
+                <label asp-for="MonthlyInvestment" class="form-label">Monthly Investment</label>
+                <input asp-for="MonthlyInvestment" class="form-control" />
+            </div>
+            <div>
+                <label asp-for="YearlyInterestRate" class="form-label">Yearly Interest Rate</label>
+                <input asp-for="YearlyInterestRate" class="form-control"/>
+            </div>
+            <div>
+                <label asp-for="Years" class="form-label">Number of Years</label>
+                <input asp-for="Years" class="form-control" />
+            </div>
+            <div>
+                <label class="form-label">Future Value</label>
+                <input value="@ViewBag.FV.ToString("C")" class="form-control" readonly />
+            </div>
+            <button type="submit" class="btn btn-primary">Calculate</button>
+            <a asp-action="Index">Clear</a>
+        </form>
