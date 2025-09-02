@@ -1,32 +1,37 @@
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
 using TipCalculatorApp.Models;
 
 namespace TipCalculatorApp.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
+        [HttpGet]
         public IActionResult Index()
         {
+            ViewBag.Tip15P = 0;
+            ViewBag.Tip20P = 0;
+            ViewBag.Tip25P = 0;
             return View();
         }
 
-        public IActionResult Privacy()
+        [HttpPost]
+        public IActionResult Index(TipCalculatorModel model)
         {
-            return View();
+            if (ModelState.IsValid)
+            {
+                model.CalculateTip();
+                ViewBag.Tip15P = model.Tip15P;
+                ViewBag.Tip20P = model.Tip20P;
+                ViewBag.Tip25P = model.Tip25P;
+            }
+            else
+            {
+                ViewBag.Tip15P = 0;
+                ViewBag.Tip20P = 0;
+                ViewBag.Tip25P = 0;
+            }
+                return View(model);
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }

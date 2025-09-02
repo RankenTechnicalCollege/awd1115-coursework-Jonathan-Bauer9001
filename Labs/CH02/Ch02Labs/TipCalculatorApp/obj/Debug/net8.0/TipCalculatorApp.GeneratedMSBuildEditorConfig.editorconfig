@@ -24,26 +24,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Artif/source/repos/Ranken/awd1115-coursework-Jonathan-Bauer9001/Labs/CH02/Ch02Labs/TipCalculatorApp/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Artif/source/repos/Ranken/awd1115-coursework-Jonathan-Bauer9001/Labs/CH02/Ch02Labs/TipCalculatorApp/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Artif/source/repos/Ranken/awd1115-coursework-Jonathan-Bauer9001/Labs/CH02/Ch02Labs/TipCalculatorApp/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Artif/source/repos/Ranken/awd1115-coursework-Jonathan-Bauer9001/Labs/CH02/Ch02Labs/TipCalculatorApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Artif/source/repos/Ranken/awd1115-coursework-Jonathan-Bauer9001/Labs/CH02/Ch02Labs/TipCalculatorApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Artif/source/repos/Ranken/awd1115-coursework-Jonathan-Bauer9001/Labs/CH02/Ch02Labs/TipCalculatorApp/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Artif/source/repos/Ranken/awd1115-coursework-Jonathan-Bauer9001/Labs/CH02/Ch02Labs/TipCalculatorApp/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-nx2ikff1up

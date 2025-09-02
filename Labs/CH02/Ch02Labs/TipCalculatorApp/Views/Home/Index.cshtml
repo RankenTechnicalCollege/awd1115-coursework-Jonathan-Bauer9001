@@ -1,8 +1,35 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model TipCalculatorModel
+@{
+    Layout = "_Layout";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1>Tip Calculator</h1>
+<form asp-action="Index" method="post" class="container">
+    <div asp-validation-summary="All" class="col-12 text-danger"></div>
+    <div class="row mb-1">
+        <label asp-for="MealCost" class="col-form-label col-2">Cost of Meal:</label>
+        <div class="col-10">
+            <input asp-for="MealCost" class="form-control" />
+        </div>
+    </div>
+    <div class="row mb-1">
+        <label asp-for="Tip15P" class="col-form-label col-2">15% tip:</label>
+        <div class="col-10">
+            <input value="@ViewBag.Tip15P.ToString("C")" class="form-control col-8" readonly />
+        </div>
+    </div>
+    <div class="row mb-1">
+        <label asp-for="Tip20P" class="col-form-label col-2">20% tip:</label>
+        <div class="col-10">
+            <input value="@ViewBag.Tip20P.ToString("C")" class="form-control col-8" readonly />
+        </div>
+    </div>
+    <div class="row mb-1">
+        <label asp-for="Tip25P" class="col-form-label col-2">25% tip:</label>
+        <div class="col-10">
+            <input value="@ViewBag.Tip25P.ToString("C")" class="form-control col-8" readonly />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary mx-auto my-2">Calculate Tip</button>
+    <a asp-action="Index" class="btn btn-secondary mx-auto my-2">Clear</a>
+</form>
