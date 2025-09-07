@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model PriceQuote
+@{
+    Layout = "_Layout";
+}
+
+<h1 class="bg-success rounded-3 text-light text-center p-4 m-2"><span class="fas fa-money-bill-wave"></span>&nbsp;Price Quotation</h1>
+
+<form asp-action="Index" method="post" class="container">
+
+    @*SubTotal Section*@
+    <div class="row mt-2">
+        <label asp-for="SubTotal" class="col-form-label col-md-3">Subtotal:</label>
+        <div class="col-md-5">
+            <input asp-for="SubTotal" class="form-control" />
+        </div>
+        <span asp-validation-for="SubTotal" class="col-md-4 text-danger"></span>
+    </div>
+
+    @*Discount Percentage Section*@
+    <div class="row mt-2">
+        <label asp-for="DiscountPercent" class="col-form-label col-md-3">Discount Percentage:</label>
+        <div class="col-md-5">
+            <input asp-for="DiscountPercent" class="form-control" />
+        </div>
+        <span asp-validation-for="DiscountPercent" class="col-md-4 text-danger"></span>
+    </div>
+
+    @*Discount Amount Section*@
+    <div class="row mt-2">
+        <label asp-for="DiscountAmount" class="col-form-label col-md-3">Discount:</label>
+        <div class="col-md-5">
+            <p>@ViewBag.Discount.ToString("C")</p>
+        </div>
+    </div>
+
+    @*TotalSection*@
+    <div class="row mt-2">
+        <label asp-for="Total" class="col-form-label col-md-3">Total:</label>
+        <div class="col-md-5">
+            <p>@ViewBag.Total.ToString("C")</p>
+        </div>
+    </div>
+
+    @*Button Section*@
+    <div class="row">
+        <div class="col offset-md-3">
+            <button type="submit" class="btn btn-success me-2">Calculate</button>
+            <a asp-action="Index" class="btn btn-success ">Clear</a>
+        </div>
+    </div>
+
+</form>

@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A51B136D-4550-4568-B6B7-CD94EC47D13E}|TipCalculatorApp\\TipCalculatorApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\tipcalculatorapp\\models\\tipcalculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A51B136D-4550-4568-B6B7-CD94EC47D13E}|TipCalculatorApp\\TipCalculatorApp.csproj|solutionrelative:tipcalculatorapp\\models\\tipcalculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A51B136D-4550-4568-B6B7-CD94EC47D13E}|TipCalculatorApp\\TipCalculatorApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\tipcalculatorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A51B136D-4550-4568-B6B7-CD94EC47D13E}|TipCalculatorApp\\TipCalculatorApp.csproj|solutionrelative:tipcalculatorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A51B136D-4550-4568-B6B7-CD94EC47D13E}|TipCalculatorApp\\TipCalculatorApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\tipcalculatorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A51B136D-4550-4568-B6B7-CD94EC47D13E}|TipCalculatorApp\\TipCalculatorApp.csproj|solutionrelative:tipcalculatorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A51B136D-4550-4568-B6B7-CD94EC47D13E}|TipCalculatorApp\\TipCalculatorApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\tipcalculatorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A51B136D-4550-4568-B6B7-CD94EC47D13E}|TipCalculatorApp\\TipCalculatorApp.csproj|solutionrelative:tipcalculatorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\priceapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|solutionrelative:priceapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\priceapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|solutionrelative:priceapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\priceapp\\models\\pricequote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|solutionrelative:priceapp\\models\\pricequote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\priceapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|solutionrelative:priceapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\priceapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|solutionrelative:priceapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\priceapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|solutionrelative:priceapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch02\\ch02labs\\priceapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFC44FF5-10F7-4377-977C-B4AB061D85F2}|PriceApp\\PriceApp.csproj|solutionrelative:priceapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,20 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\PriceApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PriceApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\PriceApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PriceApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T01:20:23.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\PriceApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PriceApp\\Views\\Shared\\_Layout.cshtml",
@@ -67,91 +38,45 @@
               "RelativeToolTip": "PriceApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T01:12:35.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T01:12:35.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PriceQuote.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\PriceApp\\Models\\PriceQuote.cs",
               "RelativeDocumentMoniker": "PriceApp\\Models\\PriceQuote.cs",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\PriceApp\\Models\\PriceQuote.cs",
               "RelativeToolTip": "PriceApp\\Models\\PriceQuote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T00:10:08.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\PriceApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PriceApp\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\PriceApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "PriceApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T00:04:41.451Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 217,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\TipCalculatorApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TipCalculatorApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\TipCalculatorApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TipCalculatorApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T02:30:19.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\TipCalculatorApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TipCalculatorApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\TipCalculatorApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TipCalculatorApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T02:22:04.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TipCalculatorModel.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\TipCalculatorApp\\Models\\TipCalculatorModel.cs",
-              "RelativeDocumentMoniker": "TipCalculatorApp\\Models\\TipCalculatorModel.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\TipCalculatorApp\\Models\\TipCalculatorModel.cs",
-              "RelativeToolTip": "TipCalculatorApp\\Models\\TipCalculatorModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T01:58:31.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\TipCalculatorApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TipCalculatorApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\TipCalculatorApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TipCalculatorApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T02:05:33.631Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\PriceApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PriceApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH02\\Ch02Labs\\PriceApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PriceApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T01:20:23.892Z",
               "EditorCaption": ""
             }
           ]
