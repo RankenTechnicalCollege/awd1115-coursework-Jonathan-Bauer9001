@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model ConvertModel;
+@{
+    ViewBag.Title = "Distance Converter";
+}
+<h1>Distance Converter</h1>
+<form asp-action="Index" method="post" class="container" >
+    <div class="form-floating mb-3 row">
+        <input class="form-control" id="floatingInches" placeholder="1-500" asp-for="Inches">
+        <label for="floatingInches" asp-for="Inches">Distance in inches</label>
+    </div>
+    <div class="row">
+        <button type="submit" class="btn btn-primary col-2">Convert to cm</button>
+        <p class="col-10 fw-bold">@ViewBag.ToCentimeters<span asp-validation-for="Inches" class="text-danger"></span></p>
+    </div>
+</form>

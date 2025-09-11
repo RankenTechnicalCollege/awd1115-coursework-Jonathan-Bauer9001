@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E760A8A1-7AF4-4B36-BD5E-5F5288E7F290}|HOT1\\HOT1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot1\\hot1\\hot1\\views\\orderform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E760A8A1-7AF4-4B36-BD5E-5F5288E7F290}|HOT1\\HOT1.csproj|solutionrelative:hot1\\views\\orderform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E760A8A1-7AF4-4B36-BD5E-5F5288E7F290}|HOT1\\HOT1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot1\\hot1\\hot1\\controllers\\orderformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E760A8A1-7AF4-4B36-BD5E-5F5288E7F290}|HOT1\\HOT1.csproj|solutionrelative:hot1\\controllers\\orderformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E760A8A1-7AF4-4B36-BD5E-5F5288E7F290}|HOT1\\HOT1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot1\\hot1\\hot1\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E760A8A1-7AF4-4B36-BD5E-5F5288E7F290}|HOT1\\HOT1.csproj|solutionrelative:hot1\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E760A8A1-7AF4-4B36-BD5E-5F5288E7F290}|HOT1\\HOT1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot1\\hot1\\hot1\\models\\convertmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E760A8A1-7AF4-4B36-BD5E-5F5288E7F290}|HOT1\\HOT1.csproj|solutionrelative:hot1\\models\\convertmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E760A8A1-7AF4-4B36-BD5E-5F5288E7F290}|HOT1\\HOT1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot1\\hot1\\hot1\\controllers\\distanceconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E760A8A1-7AF4-4B36-BD5E-5F5288E7F290}|HOT1\\HOT1.csproj|solutionrelative:hot1\\controllers\\distanceconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\HOT1\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "HOT1\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\HOT1\\Models\\OrderModel.cs",
+              "RelativeToolTip": "HOT1\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T00:48:47.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderFormController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\HOT1\\Controllers\\OrderFormController.cs",
+              "RelativeDocumentMoniker": "HOT1\\Controllers\\OrderFormController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\HOT1\\Controllers\\OrderFormController.cs",
+              "RelativeToolTip": "HOT1\\Controllers\\OrderFormController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T00:47:19.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\HOT1\\Views\\OrderForm\\Index.cshtml",
+              "RelativeDocumentMoniker": "HOT1\\Views\\OrderForm\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\HOT1\\Views\\OrderForm\\Index.cshtml",
+              "RelativeToolTip": "HOT1\\Views\\OrderForm\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-11T00:44:46.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConvertModel.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\HOT1\\Models\\ConvertModel.cs",
+              "RelativeDocumentMoniker": "HOT1\\Models\\ConvertModel.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\HOT1\\Models\\ConvertModel.cs",
+              "RelativeToolTip": "HOT1\\Models\\ConvertModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:43:21.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DistanceConverterController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\HOT1\\Controllers\\DistanceConverterController.cs",
+              "RelativeDocumentMoniker": "HOT1\\Controllers\\DistanceConverterController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT1\\HOT1\\HOT1\\Controllers\\DistanceConverterController.cs",
+              "RelativeToolTip": "HOT1\\Controllers\\DistanceConverterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:27:36.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

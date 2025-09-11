@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model OrderModel;
+@{
+    ViewBag.Title = "Order Form";
+}
+<h1>Crazy Crank's T-Shirt Factory</h1>
+<form asp-action="Index" method="post" class="container">
+    <div class="form-floating mb-3 row">
+        <input class="form-control" id="floatingQuantity" placeholder="Quantity" asp-for="Quantity">
+        <label for="floatingQuantity" asp-for="Quantity">Quantity of Shirts</label>
+        <span asp-validation-for="Quantity" class="text-danger"></span>
+    </div>
+    <div class="form-floating mb-3 row">
+        <input class="form-control" id="floatingDiscountCode" placeholder="DiscountCode" asp-for="DiscountCode">
+        <label for="floatingDiscountCode" asp-for="DiscountCode">Discount Code</label>
+        <p id="result">@ViewBag.Discount</p>
+    </div>
+    <div class="row">
+        <button type="submit" class="btn btn-primary col-2">Order</button>
+    </div>
+    <div class="row">
+        <textarea class="form-control" style="height: 200px">@ViewBag.OrderSummary</textarea>
+    </div>
+</form>

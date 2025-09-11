@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH03\\CH03 Labs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{305161DC-82F5-47DC-92F8-ED694544A899}|Project3dash1\\Project3dash1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch03\\ch03 labs\\project3dash1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{305161DC-82F5-47DC-92F8-ED694544A899}|Project3dash1\\Project3dash1.csproj|solutionrelative:project3dash1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{305161DC-82F5-47DC-92F8-ED694544A899}|Project3dash1\\Project3dash1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch03\\ch03 labs\\project3dash1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{305161DC-82F5-47DC-92F8-ED694544A899}|Project3dash1\\Project3dash1.csproj|solutionrelative:project3dash1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305161DC-82F5-47DC-92F8-ED694544A899}|Project3dash1\\Project3dash1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch03\\ch03 labs\\project3dash1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{305161DC-82F5-47DC-92F8-ED694544A899}|Project3dash1\\Project3dash1.csproj|solutionrelative:project3dash1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{305161DC-82F5-47DC-92F8-ED694544A899}|Project3dash1\\Project3dash1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch03\\ch03 labs\\project3dash1\\models\\pricequote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 183,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH03\\CH03 Labs\\Project3dash1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Project3dash1\\Views\\Shared\\_Layout.cshtml",
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Project3dash1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T18:41:47.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T18:41:47.711Z"
             },
             {
               "$type": "Document",
@@ -64,12 +63,11 @@
               "RelativeToolTip": "Project3dash1\\Models\\PriceQuote.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T18:42:31.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T18:42:31.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH03\\CH03 Labs\\Project3dash1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Project3dash1\\Views\\Home\\Index.cshtml",
