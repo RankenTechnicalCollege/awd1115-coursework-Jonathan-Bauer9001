@@ -1,0 +1,92 @@
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+/*Flavor Ribbon Start*/
+.flavor-ribbon[b-l3kz2um0wq] {
+    font-size: 16px;
+    font-weight: bold;
+    color: #B5E3B3;
+    padding-block: 1rem auto;
+    background-color: #346333;
+    border-block: 1px solid;
+    border-block-color: #346333;
+    overflow: hidden;
+    user-select: none;
+    --gap: 2rem;
+    display: flex;
+    gap: var(--gap);
+}
+
+.flavor-ribbon ul[b-l3kz2um0wq] {
+    list-style: none;
+    flex-shrink: 0;
+    min-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    gap: var(--gap);
+    
+    animation: scroll-b-l3kz2um0wq 80s linear infinite
+}
+
+@keyframes scroll-b-l3kz2um0wq {
+    to {
+        transform: translateX(-100%); 
+    }
+}
+/*Flavor Ribbon End*/
+
+
+a .navbar-brand[b-l3kz2um0wq] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    text-decoration: none;
+    color: #346333;
+}
+
+a[b-l3kz2um0wq] {
+    color: #346333;
+    font-weight:bold;
+}
+
+.btn-primary[b-l3kz2um0wq] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.navbar[b-l3kz2um0wq] {
+    background-color: #B5E3B3;
+    border-bottom: 3px solid;
+    border-color: #346333;
+}
+.nav-pills .nav-link.active[b-l3kz2um0wq], .nav-pills .show > .nav-link[b-l3kz2um0wq] {
+    color: #346333;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top[b-l3kz2um0wq] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-l3kz2um0wq] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-l3kz2um0wq] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-l3kz2um0wq] {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer[b-l3kz2um0wq] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
