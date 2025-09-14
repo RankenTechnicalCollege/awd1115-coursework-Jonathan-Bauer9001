@@ -1,6 +1,28 @@
 /* _content/UncleLeosPizza/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
+/*Google Fonts*/
+.bungee-regular[b-l3kz2um0wq] {
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-400[b-l3kz2um0wq] {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+.pacifico-regular[b-l3kz2um0wq] {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
 
 /*Flavor Ribbon Start*/
 .flavor-ribbon[b-l3kz2um0wq] {
@@ -37,38 +59,58 @@ for details on configuring this project to bundle and minify static web assets. 
     }
 }
 /*Flavor Ribbon End*/
-
-
-a .navbar-brand[b-l3kz2um0wq] {
+.navbar-links[b-l3kz2um0wq] {
+    font-family: "Roboto", sans-serif;
+    font-weight:700;
+    color:#174;
+    font-size:larger;
+}
+.nav-brand[b-l3kz2um0wq] {
+    text-decoration: none;
+    color: #174;
+    font-family: "Bungee", sans-serif;
+    font-size:larger;
+    align-self:center;
+}
+a.navbar-brand[b-l3kz2um0wq] {
     white-space: normal;
     text-align: center;
     word-break: break-all;
-    text-decoration: none;
-    color: #333;
+
 }
 
 a[b-l3kz2um0wq] {
+   
     color: #333;
-    font-weight:bold;
+    font-weight: bold;
+     font-family: "Roboto", sans-serif;
 }
 
 .btn-primary[b-l3kz2um0wq] {
     color: #174;
     background-color: #fff;
     border-color: #174;
-    border: .1rem solid;
+    border: .18rem solid;
 }
 .btn-danger[b-l3kz2um0wq] {
-    color:#fff;
+    color: #fff;
     background-color: #711;
-    border-color:#711;
+    border-color: #711;
 }
 .navbar[b-l3kz2um0wq] {
     background-color: #FFF;
     border-bottom: 3px solid;
     border-color: #174;
 }
-.nav-pills .nav-link.active[b-l3kz2um0wq], .nav-pills .show > .nav-link[b-l3kz2um0wq] {
+.flavor-item[b-l3kz2um0wq] {
+    font-family: "Roboto", sans-serif;
+}
+.nav-btn[b-l3kz2um0wq] {
+    font-family: "Roboto", sans-serif;
+   
+}
+.nav-pills .nav-link.active[b-l3kz2um0wq], .nav-pills .show > .nav-link[b-l3kz2um0wq]{
+  
     color: #346333;
     background-color: #1b6ec2;
     border-color: #1861ac;
@@ -91,7 +133,7 @@ button.accept-policy[b-l3kz2um0wq] {
     line-height: inherit;
 }
 .navbar-toggler[b-l3kz2um0wq] {
-    background-color: #346333;
+    background-color: #fff;
 }
 .footer[b-l3kz2um0wq] {
     position: absolute;
