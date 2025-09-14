@@ -1,5 +1,12 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\Artboard 1.png
+wwwroot\images\Artboard 1@1.5x.png
+wwwroot\images\Asset 1.png
+wwwroot\images\bannerX1.png
+wwwroot\images\beige-wood-background-hero.jpg
+wwwroot\images\stone.jpg
+wwwroot\images\website banner.svg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\css\bootstrap-grid.css.map

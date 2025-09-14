@@ -1,18 +1,19 @@
 ﻿/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
+
 /*Flavor Ribbon Start*/
 .flavor-ribbon {
     font-size: 16px;
     font-weight: bold;
-    color: #B5E3B3;
-    padding-block: 1rem auto;
-    background-color: #346333;
+    color: #fff;
+    background-color: #174;
     border-block: 1px solid;
-    border-block-color: #346333;
+    border-block-color: #CFE;
     overflow: hidden;
     user-select: none;
     --gap: 2rem;
     display: flex;
+   align-content:center;
     gap: var(--gap);
 }
 
@@ -22,7 +23,8 @@ for details on configuring this project to bundle and minify static web assets. 
     min-width: 100%;
     display: flex;
     justify-content: space-between;
-    align-items:center;
+    padding-top:.75rem;
+    align-self:center;
     gap: var(--gap);
     
     animation: scroll 80s linear infinite
@@ -41,24 +43,29 @@ a .navbar-brand {
     text-align: center;
     word-break: break-all;
     text-decoration: none;
-    color: #346333;
+    color: #333;
 }
 
 a {
-    color: #346333;
+    color: #333;
     font-weight:bold;
 }
 
 .btn-primary {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+    color: #174;
+    background-color: #fff;
+    border-color: #174;
+    border: .1rem solid;
 }
-
+.btn-danger {
+    color:#fff;
+    background-color: #711;
+    border-color:#711;
+}
 .navbar {
-    background-color: #B5E3B3;
+    background-color: #FFF;
     border-bottom: 3px solid;
-    border-color: #346333;
+    border-color: #174;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: #346333;
@@ -82,7 +89,9 @@ button.accept-policy {
     font-size: 1rem;
     line-height: inherit;
 }
-
+.navbar-toggler {
+    background-color: #346333;
+}
 .footer {
     position: absolute;
     bottom: 0;

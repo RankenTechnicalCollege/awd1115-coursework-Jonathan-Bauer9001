@@ -1,5 +1,132 @@
 ﻿@{
     ViewData["Title"] = "Uncle Leo's Pizza";
 }
+<style>
+    #hero {
+        background-image: url('@Url.Content("~/images/stone.jpg")');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        height: 93vh;
+        width: 100vw;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
 
+    #specials{
+        background-color:red
+    }
+    .card{
+        flex-grow:1;
+    }
 
+    .btn-primary {
+        color: #174;
+        background-color: #fff;
+        border-color: #174;
+        border: .1rem solid;
+    }
+
+    .btn-danger {
+        color: #fff;
+        background-color: #711;
+        border-color: #711;
+    }
+</style>
+<div class="container">
+<div id="hero" class="hero flex-md-column  ">
+    <h2 class="display-1 text-center text-light">Family-Owned & Operated</h2>
+    <img class="vw-100" src="~/images/Artboard 1@1.5x.png" alt="Uncle Leo's"/>
+    <h4 class="row display-3 text-light justify-content-center">Carry Out & Delivery</h4>
+    <div class="align-content-bottom"> 
+        <div class="row text-center">
+            <h5 class="col-6 text-light">Fresh Ingredients</h5>
+            <h5 class="col-6 text-light">Homemade Sauces</h5>
+        </div>
+    </div>
+    <div class="row justify-content-around">
+            <a class="btn-lg col-md-5 p-3 m-2 btn btn-primary" href="tel:+131484527155">Call-In Order</a>
+            <a class=" btn-lg col-md-5 p-3 m-2 btn btn-danger fw-bold" asp-area="" asp-controller="OnlineOrdering" asp-action="Index">ORDER ONLINE</a>
+    </div>
+
+</div>
+</div>
+<div id="Specials" class="container-fluid ">
+
+    <div class="section-title flex-row">
+        <h3 class="row-3">Specials</h3>
+        <p class="row-9">Available only on Call-In Orders</p>
+    </div>
+
+    <div class="d-flex flex-wrap ">
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Everyday Special</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary">$22.99</h6>
+                <p class="card-text">2 Large 1-Topping Pizzas</p>
+                <p class="card-text">Please mention this coupon when ordering. Can’t combine with other offers. One coupon per order.</p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Everyday Special</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                <p class="card-text">Please mention this coupon when ordering. Can’t combine with other offers. One coupon per order.</p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Everyday Special</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                <p class="card-text">Please mention this coupon when ordering. Can’t combine with other offers. One coupon per order.</p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Everyday Special</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                <p class="card-text">Please mention this coupon when ordering. Can’t combine with other offers. One coupon per order.</p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Everyday Special</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                <p class="card-text">Please mention this coupon when ordering. Can’t combine with other offers. One coupon per order.</p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Everyday Special</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                <p class="card-text">Please mention this coupon when ordering. Can’t combine with other offers. One coupon per order.</p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Everyday Special</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                <p claas="card-text">Please mention this special when ordering. Can’t combine with other offers. Lunch delivery fee of $2.00.</p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Everyday Special</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+                <p claas="card-text">Please mention this special when ordering. Can’t combine with other offers. Lunch delivery fee of $2.00.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="ULReviews">
+
+</div>

@@ -12,7 +12,7 @@
     <header>
         
         <div class="flavor-ribbon">
-            <ul class="d-flex align-items-center">
+            <ul>
                 <li>
                     <span class="flavor-icon"></span>
                     <span class="flavor-item">Uncle Leo's Deluxe</span>
@@ -153,17 +153,34 @@
                 </li>
             </ul>
         </div>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm box-shadow">
             <div class="container-fluid">
-                <a class="navbar-brand text-dark" asp-area="" asp-controller="Home" asp-action="Index">Uncle Leos Pizza</a>
+                <a class="navbar-brand text-dark mx-1" asp-area="" asp-controller="Home" asp-action="Index">Uncle Leos Pizza</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggler-icon light"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-around">
+                    <ul class="navbar-nav flex-grow-1 justify-content-end">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="#Specials" asp-controller="Home" asp-action="Index">Specials</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Menu" asp-action="Index">Menu</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="About" asp-action="Index">About</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav flex-grow-1 justify-content-end">
+                        <li class="nav-item mx-1">
+                            <a class="nav-btn btn btn-primary" href="tel:+131484527155"><i class="bi bi-telephone-fill"></i>(314)842-7155</a>
+                        </li>
+                        <li class="nav-item mx-1">
+                            <a class="nav-btn btn btn-danger fw-bold" asp-area="" asp-controller="OnlineOrdering" asp-action="Index">ORDER ONLINE</a>
                         </li>
                     </ul>
                 </div>
@@ -171,7 +188,7 @@
         </nav>
     </header>
     <div class="container">
-        <main role="main" class="pb-3">
+        <main role="main">
             @RenderBody()
         </main>
     </div>
