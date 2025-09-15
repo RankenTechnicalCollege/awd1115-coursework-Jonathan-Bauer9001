@@ -30,7 +30,7 @@ for details on configuring this project to bundle and minify static web assets. 
     color: #fff;
     background-color: #174;
     border-block: 1px solid;
-    border-block-color: #CFE;
+    border-block-color: #174;
     overflow: hidden;
     user-select: none;
     --gap: 2rem;
@@ -91,13 +91,8 @@ a[b-l3kz2um0wq] {
     border-color: #174;
     border: .18rem solid;
 }
-.btn-danger[b-l3kz2um0wq] {
-    color: #fff;
-    background-color: #711;
-    border-color: #711;
-}
 .navbar[b-l3kz2um0wq] {
-    background-color: #FFF;
+    background-color: lightgray;
     border-bottom: 3px solid;
     border-color: #174;
 }
@@ -111,8 +106,8 @@ a[b-l3kz2um0wq] {
 .nav-pills .nav-link.active[b-l3kz2um0wq], .nav-pills .show > .nav-link[b-l3kz2um0wq]{
   
     color: #346333;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+    background-color: lightgray;
+    border-color: lightgray;
 }
 
 .border-top[b-l3kz2um0wq] {
@@ -132,9 +127,10 @@ button.accept-policy[b-l3kz2um0wq] {
     line-height: inherit;
 }
 .navbar-toggler[b-l3kz2um0wq] {
-    background-color: #fff;
+    background-color: #174;
 }
 .footer[b-l3kz2um0wq] {
+    background-color:#174;
     position: absolute;
     bottom: 0;
     width: 100%;

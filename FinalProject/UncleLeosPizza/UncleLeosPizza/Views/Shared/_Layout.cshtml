@@ -3,18 +3,17 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - UncleLeosPizza</title>
+    <title>@ViewData["Title"] - Pizza Night? Make It Count With Uncle Leo's Pizza [Local, Family-Owned] </title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/UncleLeosPizza.styles.css" asp-append-version="true" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Pacifico&family=Roboto&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header>
+    <header class="sticky-top">
         
         <div class="flavor-ribbon">
             <ul>
@@ -158,12 +157,12 @@
                 </li>
             </ul>
         </div>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm box-shadow">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><span class="nav-brand ">Uncle Leo's</span></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon light"></span>
+                        <span class="nav-toggler bi-plus-lg text-light"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-around">
                     <ul class="navbar-nav flex-grow-1 justify-content-end">
@@ -171,21 +170,18 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index"><span class="navbar-links">Home</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="#Specials" asp-controller="Home" asp-action="Index"><span class="navbar-links">Specials</span></a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Menu" asp-action="Index"><span class="navbar-links">Menu</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="About" asp-action="Index"><span class="navbar-links">About</span></a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="About"><span class="navbar-links">About</span></a>
                         </li>
                     </ul>
-                    <ul class="navbar-nav flex-grow-1 justify-content-end">
+                    <ul class="navbar-nav flex-row">
                         <li class="nav-item mx-1">
-                            <a class="nav-btn btn btn-primary" href="tel:+131484527155"><i class="bi bi-telephone-fill"></i>(314) 842-7155</a>
+                            <a class="nav-btn btn btn-primary shadow-lg" href="tel:+131484527155">(314) 842-7155</a>
                         </li>
                         <li class="nav-item mx-1">
-                            <a class="nav-btn btn btn-danger fw-bold" asp-area="" asp-controller="OnlineOrdering" asp-action="Index"><span class="nav-btn">ORDER ONLINE</span></a>
+                            <a class="nav-btn btn btn-outline-danger border-2 fw-bold bg-light shadow-lg" asp-area="" asp-controller="OnlineOrdering" asp-action="Index"><span class="nav-btn">ORDER ONLINE</span></a>
                         </li>
                     </ul>
                 </div>
@@ -199,9 +195,9 @@
     </div>
 
     <footer class="border-top footer text-muted ">
-        <div class="container">
+        <div class="container text-light">
      
-            &copy; 2025 - UncleLeosPizza - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - UncleLeosPizza - <a class="text-light" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy Policy</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
