@@ -78,8 +78,7 @@
               "RelativeToolTip": "UncleLeosPizza\\Views\\OnlineOrdering\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T02:39:09.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T02:39:09.968Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "UncleLeosPizza\\Views\\Menu\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T02:36:40.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T02:36:40.854Z"
             },
             {
               "$type": "Document",
@@ -104,8 +102,7 @@
               "RelativeToolTip": "UncleLeosPizza\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T03:33:22.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T03:33:22.011Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "UncleLeosPizza\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAFsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T03:31:04.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T03:31:04.881Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "UncleLeosPizza\\Models\\OnlineOrderingModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T02:39:54.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T02:39:54.703Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "UncleLeosPizza\\Controllers\\OnlineOrderingController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T03:17:02.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T03:17:02.513Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "UncleLeosPizza\\Models\\MenuModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T02:35:53.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T02:35:53.085Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "UncleLeosPizza\\Controllers\\MenuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T02:34:39.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T02:34:39.977Z"
             }
           ]
         },
@@ -214,8 +206,7 @@
               "RelativeToolTip": "UncleLeosPizza\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-14T21:47:16.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T21:47:16.741Z"
             },
             {
               "$type": "Document",
@@ -227,8 +218,7 @@
               "RelativeToolTip": "UncleLeosPizza\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-14T21:45:34.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T21:45:34.503Z"
             },
             {
               "$type": "Document",
@@ -240,8 +230,7 @@
               "RelativeToolTip": "UncleLeosPizza\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-11T04:59:39.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T04:59:39.611Z"
             }
           ]
         }

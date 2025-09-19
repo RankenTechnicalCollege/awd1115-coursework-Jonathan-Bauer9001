@@ -1,0 +1,36 @@
+﻿@model Contact
+@{
+	ViewData["Title"] = "Contact Details";
+}
+<h2>Contact Details</h2>
+<form asp-action="Detail">
+	<div class="form-group">
+		<label asp-for="FirstName" class="control-label">First Name</label>
+		<input asp-for="FirstName" value="@Model.FirstName" class="form-control" readonly />
+	</div>
+	<div class="form-group">
+		<label asp-for="LastName" class="control-label">Last Name</label>
+		<input asp-for="LastName" value="@Model.LastName" class="form-control" readonly />
+	</div>
+	<div class="form-group">
+		<label asp-for="Email" class="control-label">Email</label>
+		<input asp-for="Email" value="@Model.Email" class="form-control" readonly />
+	</div>
+	<div class="form-group">
+		<label asp-for="Phone" class="control-label">Phone</label>
+		<input asp-for="Phone" value="@Model.Phone" class="form-control" readonly />
+	</div>
+	<div class="form-group">
+		<label asp-for="CategoriesId" class="control-label">Category</label>
+		<input asp-for="Categories.CategoryName" value="@Model.Categories.CategoryName" class="form-control" readonly />
+	</div>
+	<div class="form-group">
+		<label asp-for="DateAdded" class="control-label">Date Created</label>
+		<input value="@Model.DateAdded" class="form-control" readonly />
+	</div>
+	<div class="form-group">
+		<a asp-action="Edit" asp-route-id="@Model.ContactId" class="btn btn-primary">Edit</a>
+		<a asp-action="Delete" asp-route-id="@Model.ContactId" class="btn btn-danger">Delete</a> 
+		<a asp-action="Index" asp-controller="Home" class="btn btn-secondary">Home</a>
+	</div>
+</form>
