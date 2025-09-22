@@ -1,8 +1,17 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "SalesOrder Database Application";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+    <h1 class="display-4">SalesOrder Database Application</h1>
+    <p>A perpetual SQL Server database program</p>
+
+    <h2>Version01</h2>
+    <form method="get" asp-controller="Home" asp-action="Index" class="d-flex flex-column">
+    <a asp-controller="Product" asp-action="List" class="btn btn-light mb-1 text-start">Manage Products</a>
+    <a asp-controller="#" asp-action="Categories" class="btn btn-light mb-1 text-start">Manage Categories</a>
+    <a asp-controller="#" asp-action="Vendors" class="btn btn-light mb-1 text-start">Manage Vendors</a>
+    <a asp-controller="#" asp-action="Customers" class="btn btn-light mb-1 text-start">Manage Customers</a>
+    <a asp-controller="#" asp-action="Employees" class="btn btn-light mb-1 text-start">Manage Employees</a>
+    <a asp-controller="#" asp-action="Orders" class="btn btn-light mb-1 text-start">Manage Orders</a>
+    </form>
+

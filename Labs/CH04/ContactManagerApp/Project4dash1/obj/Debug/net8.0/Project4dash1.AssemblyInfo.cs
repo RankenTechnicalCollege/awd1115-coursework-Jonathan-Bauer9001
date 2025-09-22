@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project4dash1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61c560c32efe4f0ccd33b4d8c8d88249094fd12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe7d73aec8f4abea15fe057626e4a8ad5c50f5e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project4dash1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project4dash1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
