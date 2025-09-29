@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UncleLeosPizza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20acf677d85981674450fbdf7bd74a38ff6c7f04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+483d0de602f571795bbc67bece7c4c1bdd981bfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("UncleLeosPizza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UncleLeosPizza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

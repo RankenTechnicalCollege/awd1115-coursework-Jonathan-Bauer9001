@@ -17,7 +17,8 @@ namespace UncleLeosPizza.Migrations
                 name: "Categories",
                 columns: table => new
                 {
-                    CategoryId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    CategoryId = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
@@ -29,7 +30,8 @@ namespace UncleLeosPizza.Migrations
                 name: "Sizes",
                 columns: table => new
                 {
-                    SizeId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    SizeId = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
@@ -61,10 +63,11 @@ namespace UncleLeosPizza.Migrations
                 name: "Items",
                 columns: table => new
                 {
-                    ItemId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    ItemId = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    CategoryId = table.Column<string>(type: "nvarchar(450)", nullable: false)
+                    Description = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    CategoryId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -103,14 +106,13 @@ namespace UncleLeosPizza.Migrations
                 name: "ItemSizes",
                 columns: table => new
                 {
-                    ItemSizeId = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    ItemId = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    SizeId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    ItemId = table.Column<int>(type: "int", nullable: false),
+                    SizeId = table.Column<int>(type: "int", nullable: false),
                     Price = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_ItemSizes", x => x.ItemSizeId);
+                    table.PrimaryKey("PK_ItemSizes", x => new { x.ItemId, x.SizeId });
                     table.ForeignKey(
                         name: "FK_ItemSizes_Items_ItemId",
                         column: x => x.ItemId,
@@ -133,7 +135,7 @@ namespace UncleLeosPizza.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     OrderId = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     OrderId1 = table.Column<int>(type: "int", nullable: false),
-                    ItemId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    ItemId = table.Column<int>(type: "int", nullable: false),
                     Quantity = table.Column<int>(type: "int", nullable: false),
                     UnitPrice = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
                 },
@@ -159,12 +161,12 @@ namespace UncleLeosPizza.Migrations
                 columns: new[] { "CategoryId", "Name" },
                 values: new object[,]
                 {
-                    { "Appetizer", "Appetizer" },
-                    { "Beverage", "Beverage" },
-                    { "Dessert", "Dessert" },
-                    { "Merchandise", "Merchandise" },
-                    { "Pizza", "Pizza" },
-                    { "Salad", "Salad" }
+                    { 1, "Pizza" },
+                    { 2, "Salad" },
+                    { 3, "Appetizer" },
+                    { 4, "Dessert" },
+                    { 5, "Beverage" },
+                    { 6, "Merchandise" }
                 });
 
             migrationBuilder.InsertData(
@@ -172,9 +174,9 @@ namespace UncleLeosPizza.Migrations
                 columns: new[] { "SizeId", "Name" },
                 values: new object[,]
                 {
-                    { "Large", "Large" },
-                    { "Medium", "Medium" },
-                    { "Small", "Small" }
+                    { 1, "Small" },
+                    { 2, "Medium" },
+                    { 3, "Large" }
                 });
 
             migrationBuilder.InsertData(
@@ -182,23 +184,28 @@ namespace UncleLeosPizza.Migrations
                 columns: new[] { "ItemId", "CategoryId", "Description", "Name" },
                 values: new object[,]
                 {
-                    { "1", "Pizza", "Classic cheese pizza with tomato sauce and mozzarella cheese", "Cheese Pizza" },
-                    { "2", "Pizza", "Pepperoni pizza with tomato sauce and mozzarella cheese", "Pepperoni Pizza" },
-                    { "3", "Pizza", "Vegetarian pizza with tomato sauce, mozzarella cheese, bell peppers, onions, and mushrooms", "Veggie Pizza" },
-                    { "4", "Salad", "Crisp romaine lettuce, croutons, and Caesar dressing", "Caesar Salad" },
-                    { "5", "Salad", "Mixed greens, feta cheese, olives, cucumbers, and tomatoes with Greek dressing", "Greek Salad" },
-                    { "6", "Appetizer", "Spicy buffalo wings served with blue cheese dressing", "Chicken Wings" }
+                    { 1, 1, "Classic cheese pizza with tomato sauce and mozzarella cheese", "Cheese Pizza" },
+                    { 2, 1, "Pepperoni pizza with tomato sauce and mozzarella cheese", "Pepperoni Pizza" },
+                    { 3, 1, "Vegetarian pizza with tomato sauce, mozzarella cheese, bell peppers, onions, and mushrooms", "Veggie Pizza" },
+                    { 4, 2, "Crisp romaine lettuce, croutons, and Caesar dressing", "Caesar Salad" },
+                    { 5, 2, "Mixed greens, feta cheese, olives, cucumbers, and tomatoes with Greek dressing", "Greek Salad" },
+                    { 6, 3, "Spicy buffalo wings served with blue cheese dressing", "Chicken Wings" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "ItemSizes",
+                columns: new[] { "ItemId", "SizeId", "Price" },
+                values: new object[,]
+                {
+                    { 5, 1, 6.99m },
+                    { 6, 1, 7.99m },
+                    { 6, 2, 12.99m }
                 });
 
             migrationBuilder.CreateIndex(
                 name: "IX_Items_CategoryId",
                 table: "Items",
                 column: "CategoryId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_ItemSizes_ItemId",
-                table: "ItemSizes",
-                column: "ItemId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_ItemSizes_SizeId",

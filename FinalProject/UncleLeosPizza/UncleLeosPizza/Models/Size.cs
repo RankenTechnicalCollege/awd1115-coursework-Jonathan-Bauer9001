@@ -2,7 +2,8 @@
 {
     public class Size
     {
-        public string SizeId { get; set; } = string.Empty;
+        public int SizeId { get; set; }
         public string Name { get; set; } = string.Empty;
+        public ICollection<ItemSize> ItemSizes { get; set; } = new List<ItemSize>();
     }
 }

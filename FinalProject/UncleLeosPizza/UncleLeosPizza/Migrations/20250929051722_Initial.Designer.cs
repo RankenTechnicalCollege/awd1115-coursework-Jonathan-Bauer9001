@@ -12,7 +12,7 @@ using UncleLeosPizza.Models;
 namespace UncleLeosPizza.Migrations
 {
     [DbContext(typeof(UncleLeosContext))]
-    [Migration("20250929035329_Initial")]
+    [Migration("20250929051722_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -27,8 +27,11 @@ namespace UncleLeosPizza.Migrations
 
             modelBuilder.Entity("UncleLeosPizza.Models.Category", b =>
                 {
-                    b.Property<string>("CategoryId")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("CategoryId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"));
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -41,47 +44,48 @@ namespace UncleLeosPizza.Migrations
                     b.HasData(
                         new
                         {
-                            CategoryId = "Pizza",
+                            CategoryId = 1,
                             Name = "Pizza"
                         },
                         new
                         {
-                            CategoryId = "Salad",
+                            CategoryId = 2,
                             Name = "Salad"
                         },
                         new
                         {
-                            CategoryId = "Appetizer",
+                            CategoryId = 3,
                             Name = "Appetizer"
                         },
                         new
                         {
-                            CategoryId = "Dessert",
+                            CategoryId = 4,
                             Name = "Dessert"
                         },
                         new
                         {
-                            CategoryId = "Beverage",
+                            CategoryId = 5,
                             Name = "Beverage"
                         },
                         new
                         {
-                            CategoryId = "Merchandise",
+                            CategoryId = 6,
                             Name = "Merchandise"
                         });
                 });
 
             modelBuilder.Entity("UncleLeosPizza.Models.Item", b =>
                 {
-                    b.Property<string>("ItemId")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("ItemId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
 
-                    b.Property<string>("CategoryId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ItemId"));
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -97,43 +101,43 @@ namespace UncleLeosPizza.Migrations
                     b.HasData(
                         new
                         {
-                            ItemId = "1",
-                            CategoryId = "Pizza",
+                            ItemId = 1,
+                            CategoryId = 1,
                             Description = "Classic cheese pizza with tomato sauce and mozzarella cheese",
                             Name = "Cheese Pizza"
                         },
                         new
                         {
-                            ItemId = "2",
-                            CategoryId = "Pizza",
+                            ItemId = 2,
+                            CategoryId = 1,
                             Description = "Pepperoni pizza with tomato sauce and mozzarella cheese",
                             Name = "Pepperoni Pizza"
                         },
                         new
                         {
-                            ItemId = "3",
-                            CategoryId = "Pizza",
+                            ItemId = 3,
+                            CategoryId = 1,
                             Description = "Vegetarian pizza with tomato sauce, mozzarella cheese, bell peppers, onions, and mushrooms",
                             Name = "Veggie Pizza"
                         },
                         new
                         {
-                            ItemId = "4",
-                            CategoryId = "Salad",
+                            ItemId = 4,
+                            CategoryId = 2,
                             Description = "Crisp romaine lettuce, croutons, and Caesar dressing",
                             Name = "Caesar Salad"
                         },
                         new
                         {
-                            ItemId = "5",
-                            CategoryId = "Salad",
+                            ItemId = 5,
+                            CategoryId = 2,
                             Description = "Mixed greens, feta cheese, olives, cucumbers, and tomatoes with Greek dressing",
                             Name = "Greek Salad"
                         },
                         new
                         {
-                            ItemId = "6",
-                            CategoryId = "Appetizer",
+                            ItemId = 6,
+                            CategoryId = 3,
                             Description = "Spicy buffalo wings served with blue cheese dressing",
                             Name = "Chicken Wings"
                         });
@@ -141,27 +145,40 @@ namespace UncleLeosPizza.Migrations
 
             modelBuilder.Entity("UncleLeosPizza.Models.ItemSize", b =>
                 {
-                    b.Property<string>("ItemSizeId")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("ItemId")
+                        .HasColumnType("int");
 
-                    b.Property<string>("ItemId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("SizeId")
+                        .HasColumnType("int");
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<string>("SizeId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
-                    b.HasKey("ItemSizeId");
-
-                    b.HasIndex("ItemId");
+                    b.HasKey("ItemId", "SizeId");
 
                     b.HasIndex("SizeId");
 
                     b.ToTable("ItemSizes");
+
+                    b.HasData(
+                        new
+                        {
+                            ItemId = 5,
+                            SizeId = 1,
+                            Price = 6.99m
+                        },
+                        new
+                        {
+                            ItemId = 6,
+                            SizeId = 1,
+                            Price = 7.99m
+                        },
+                        new
+                        {
+                            ItemId = 6,
+                            SizeId = 2,
+                            Price = 12.99m
+                        });
                 });
 
             modelBuilder.Entity("UncleLeosPizza.Models.Order", b =>
@@ -200,9 +217,8 @@ namespace UncleLeosPizza.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderItemId"));
 
-                    b.Property<string>("ItemId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("ItemId")
+                        .HasColumnType("int");
 
                     b.Property<string>("OrderId")
                         .IsRequired()
@@ -228,8 +244,11 @@ namespace UncleLeosPizza.Migrations
 
             modelBuilder.Entity("UncleLeosPizza.Models.Size", b =>
                 {
-                    b.Property<string>("SizeId")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("SizeId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SizeId"));
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -242,17 +261,17 @@ namespace UncleLeosPizza.Migrations
                     b.HasData(
                         new
                         {
-                            SizeId = "Small",
+                            SizeId = 1,
                             Name = "Small"
                         },
                         new
                         {
-                            SizeId = "Medium",
+                            SizeId = 2,
                             Name = "Medium"
                         },
                         new
                         {
-                            SizeId = "Large",
+                            SizeId = 3,
                             Name = "Large"
                         });
                 });
@@ -315,13 +334,13 @@ namespace UncleLeosPizza.Migrations
             modelBuilder.Entity("UncleLeosPizza.Models.ItemSize", b =>
                 {
                     b.HasOne("UncleLeosPizza.Models.Item", "Item")
-                        .WithMany()
+                        .WithMany("ItemSizes")
                         .HasForeignKey("ItemId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("UncleLeosPizza.Models.Size", "Size")
-                        .WithMany()
+                        .WithMany("ItemSizes")
                         .HasForeignKey("SizeId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -359,6 +378,16 @@ namespace UncleLeosPizza.Migrations
                     b.Navigation("Item");
 
                     b.Navigation("Order");
+                });
+
+            modelBuilder.Entity("UncleLeosPizza.Models.Item", b =>
+                {
+                    b.Navigation("ItemSizes");
+                });
+
+            modelBuilder.Entity("UncleLeosPizza.Models.Size", b =>
+                {
+                    b.Navigation("ItemSizes");
                 });
 #pragma warning restore 612, 618
         }

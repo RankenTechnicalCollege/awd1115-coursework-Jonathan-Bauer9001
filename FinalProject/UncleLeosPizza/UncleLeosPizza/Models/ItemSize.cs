@@ -2,10 +2,9 @@
 {
     public class ItemSize
     {
-        public string ItemSizeId { get; set; } = string.Empty;
-        public string ItemId { get; set; } = string.Empty;
+        public int ItemId { get; set; }
         public Item Item { get; set; } = null!;
-        public string SizeId { get; set; } = string.Empty;
+        public int SizeId { get; set; }
         public Size Size { get; set; } = null!;
         public decimal Price { get; set; } = 0.0m;
     }
