@@ -7,7 +7,5 @@
         public string Description { get; set; } = string.Empty;
         public string CategoryId { get; set; } = string.Empty;
         public Category Category { get; set; } = null!;
-        public string SizeId { get; set; } = string.Empty;
-        public Size Size { get; set; } = null!;
     }
 }

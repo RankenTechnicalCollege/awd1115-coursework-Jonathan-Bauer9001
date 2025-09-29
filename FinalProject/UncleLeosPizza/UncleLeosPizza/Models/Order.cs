@@ -4,6 +4,9 @@
     {
         public int OrderId { get; set; }
         public int UserId { get; set; }
-        private UserSecretsConfigurationExtensions
+        public User? User { get; set; }
+        public DateTime OrderDate { get; set; } = DateTime.Now;
+        public decimal TotalAmount { get; set; } = 0.0m;
+        public string Status { get; set; } = "Pending";
     }
 }
