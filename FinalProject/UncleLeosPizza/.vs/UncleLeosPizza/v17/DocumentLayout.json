@@ -3,60 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\models\\uncleleoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\models\\uncleleoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\onlineordering\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\onlineordering\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\employeeportal\\addedititem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\employeeportal\\addedititem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\employeeportal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\employeeportal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\employeeportal\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\employeeportal\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\models\\onlineorderingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\models\\onlineorderingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\controllers\\onlineorderingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\controllers\\onlineorderingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\models\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\models\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\onlineordering\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\onlineordering\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\controllers\\onlineorderingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\controllers\\onlineorderingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleospizza\\uncleleospizza\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1FCA63-F21F-4D26-BC0D-CD1B7580FD12}|UncleLeosPizza\\UncleLeosPizza.csproj|solutionrelative:uncleleospizza\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,24 +81,168 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 208,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\User.cs",
+              "RelativeToolTip": "UncleLeosPizza\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T02:29:24.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\Order.cs",
+              "RelativeToolTip": "UncleLeosPizza\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T02:28:31.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\OrderItem.cs",
+              "RelativeToolTip": "UncleLeosPizza\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T02:26:19.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Models\\Size.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\Size.cs",
+              "RelativeToolTip": "UncleLeosPizza\\Models\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:09:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\Category.cs",
+              "RelativeToolTip": "UncleLeosPizza\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:08:30.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\EmployeePortal\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Views\\EmployeePortal\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\EmployeePortal\\Delete.cshtml",
+              "RelativeToolTip": "UncleLeosPizza\\Views\\EmployeePortal\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T16:58:53.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEditItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\EmployeePortal\\AddEditItem.cshtml",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Views\\EmployeePortal\\AddEditItem.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\EmployeePortal\\AddEditItem.cshtml",
+              "RelativeToolTip": "UncleLeosPizza\\Views\\EmployeePortal\\AddEditItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T16:58:41.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\EmployeePortal\\Index.cshtml",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Views\\EmployeePortal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\EmployeePortal\\Index.cshtml",
+              "RelativeToolTip": "UncleLeosPizza\\Views\\EmployeePortal\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T16:58:16.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\Item.cs",
+              "RelativeToolTip": "UncleLeosPizza\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:34:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UncleLeosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\UncleLeosContext.cs",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Models\\UncleLeosContext.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\UncleLeosContext.cs",
+              "RelativeToolTip": "UncleLeosPizza\\Models\\UncleLeosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:30:47.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "UncleLeosPizza\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "UncleLeosPizza\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:28:20.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\OnlineOrdering\\Index.cshtml",
               "RelativeDocumentMoniker": "UncleLeosPizza\\Views\\OnlineOrdering\\Index.cshtml",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\OnlineOrdering\\Index.cshtml",
               "RelativeToolTip": "UncleLeosPizza\\Views\\OnlineOrdering\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T02:39:09.968Z"
+              "WhenOpened": "2025-09-15T02:39:09.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\Menu\\Index.cshtml",
               "RelativeDocumentMoniker": "UncleLeosPizza\\Views\\Menu\\Index.cshtml",
@@ -90,23 +250,25 @@
               "RelativeToolTip": "UncleLeosPizza\\Views\\Menu\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-15T02:36:40.854Z"
+              "WhenOpened": "2025-09-15T02:36:40.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "UncleLeosPizza\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "UncleLeosPizza\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAMcAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T03:33:22.011Z"
+              "WhenOpened": "2025-09-11T03:33:22.011Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "UncleLeosPizza\\Views\\Home\\About.cshtml",
@@ -119,55 +281,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "UncleLeosPizza\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "UncleLeosPizza\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAM8AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-11T03:31:04.881Z"
+              "WhenOpened": "2025-09-11T03:31:04.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OnlineOrderingModel.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\OnlineOrderingModel.cs",
-              "RelativeDocumentMoniker": "UncleLeosPizza\\Models\\OnlineOrderingModel.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\OnlineOrderingModel.cs",
-              "RelativeToolTip": "UncleLeosPizza\\Models\\OnlineOrderingModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T02:39:54.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "OnlineOrderingController.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Controllers\\OnlineOrderingController.cs",
               "RelativeDocumentMoniker": "UncleLeosPizza\\Controllers\\OnlineOrderingController.cs",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Controllers\\OnlineOrderingController.cs",
               "RelativeToolTip": "UncleLeosPizza\\Controllers\\OnlineOrderingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T03:17:02.513Z"
+              "WhenOpened": "2025-09-15T03:17:02.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuModel.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\MenuModel.cs",
-              "RelativeDocumentMoniker": "UncleLeosPizza\\Models\\MenuModel.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Models\\MenuModel.cs",
-              "RelativeToolTip": "UncleLeosPizza\\Models\\MenuModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T02:35:53.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MenuController.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Controllers\\MenuController.cs",
               "RelativeDocumentMoniker": "UncleLeosPizza\\Controllers\\MenuController.cs",
@@ -175,95 +315,7 @@
               "RelativeToolTip": "UncleLeosPizza\\Controllers\\MenuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T02:34:39.977Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 158,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "UncleLeosPizza\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "UncleLeosPizza\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-11T03:37:00.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "UncleLeosPizza\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "UncleLeosPizza\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-14T21:47:16.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "UncleLeosPizza\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
-              "RelativeToolTip": "UncleLeosPizza\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-14T21:45:34.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "UncleLeosPizza\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "UncleLeosPizza\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-11T04:59:39.611Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "2c044ebe-ac61-4424-bb8a-7f89a543f35b",
-        "Display": 0,
-        "X": 902,
-        "Y": 143,
-        "Width": 870,
-        "Height": 786,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "UncleLeosPizza\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosPizza\\UncleLeosPizza\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "UncleLeosPizza\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T21:58:51.197Z",
+              "WhenOpened": "2025-09-15T02:34:39.977Z",
               "EditorCaption": ""
             }
           ]
