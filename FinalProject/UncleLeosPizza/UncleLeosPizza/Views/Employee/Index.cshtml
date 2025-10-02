@@ -1,0 +1,20 @@
+﻿@model Item;
+@{
+	ViewData["Title"] = "Employee Portal";
+}
+<h1>Employee Portal</h1>
+<form method="get" asp-controller="Employee" asp-action="Index" class="d-flex flex-column">
+    @*
+        Add in a calendar and current week scheduling = | cal | weekly schedule |
+
+        
+    *@
+    <a asp-controller="Employee" asp-action="Items" class="btn btn-light mb-1 text-start">Manage Items</a>
+    <a asp-controller="#" asp-action="Customers" class="btn btn-light mb-1 text-start">Manage Customers</a>
+    <a asp-controller="#" asp-action="Employees" class="btn btn-light mb-1 text-start">Manage Employees</a>
+    <a asp-controller="#" asp-action="Orders" class="btn btn-light mb-1 text-start">Manage Orders</a>
+    <a asp-controller="#" asp-action="Inventory" class="btn btn-light mb-1 text-start">Take Inventory</a>
+    <a asp-controller="#" asp-action="Reporting" class="btn btn-light mb-1 text-start">Manage Reports</a>
+
+
+</form>

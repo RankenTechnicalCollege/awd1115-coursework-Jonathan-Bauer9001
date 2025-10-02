@@ -174,9 +174,9 @@ namespace UncleLeosPizza.Migrations
                 columns: new[] { "SizeId", "Name" },
                 values: new object[,]
                 {
-                    { 1, "Small" },
-                    { 2, "Medium" },
-                    { 3, "Large" }
+                    { 1, "12in." },
+                    { 2, "14in." },
+                    { 3, "16in." }
                 });
 
             migrationBuilder.InsertData(
@@ -184,12 +184,14 @@ namespace UncleLeosPizza.Migrations
                 columns: new[] { "ItemId", "CategoryId", "Description", "Name" },
                 values: new object[,]
                 {
-                    { 1, 1, "Classic cheese pizza with tomato sauce and mozzarella cheese", "Cheese Pizza" },
-                    { 2, 1, "Pepperoni pizza with tomato sauce and mozzarella cheese", "Pepperoni Pizza" },
-                    { 3, 1, "Vegetarian pizza with tomato sauce, mozzarella cheese, bell peppers, onions, and mushrooms", "Veggie Pizza" },
-                    { 4, 2, "Crisp romaine lettuce, croutons, and Caesar dressing", "Caesar Salad" },
-                    { 5, 2, "Mixed greens, feta cheese, olives, cucumbers, and tomatoes with Greek dressing", "Greek Salad" },
-                    { 6, 3, "Spicy buffalo wings served with blue cheese dressing", "Chicken Wings" }
+                    { 1, 1, "Homemade Red Sauce Base w/ Sausage, Pepperoni, Onion, Fresh Mushrooms, Black Olives, Green Pepper, topped with Provel Cheese", "Uncle Leo's Deluxe" },
+                    { 2, 1, "Homemade Red Sauce Base Topped w/ Italian Sausage, Pepperoni, Crispy Bacon, and Provel Cheese", "Meat Trio" },
+                    { 3, 1, "Homemade Red Sauce Base Topped w/ Beef, Onion, Tomato, Jalapenos Peppers, and Provel Cheese", "Joey's Fave" },
+                    { 4, 1, "Homemade White Sauce Base Topped w/ Grilled Chicken, Yellow Onion, Fresh Mushrooms, Crispy Bacon, Baby Spinach, and Provel Cheese", "Chicken D'Light" },
+                    { 5, 1, "Homemade White Sauce Base Topped w/ Italian Sausage, Yellow Onion, Crispy Bacon, Baby Spinach, and Provel Cheese", "Sausage Special" },
+                    { 6, 1, "FUNGO SAUCE! Special Made Buffalo Sauce Base Topped w/ Grilled Chicken, Yellow Onion, Crispy Bacon, and Provel Cheese", "Fungo Chicken" },
+                    { 7, 1, "Olive Oil Base Topped w/ Tomatoes, Basil, Garlic, and Mozzerella Cheese", "Mariann's Margherita" },
+                    { 8, 1, "Homemade Red Sauce Base Topped w/ Green Pepper, Yellow Onion, Black Olives, Fresh Mushrooms, and Provel Cheese", "Veggie D'Light" }
                 });
 
             migrationBuilder.InsertData(
@@ -197,9 +199,30 @@ namespace UncleLeosPizza.Migrations
                 columns: new[] { "ItemId", "SizeId", "Price" },
                 values: new object[,]
                 {
-                    { 5, 1, 6.99m },
-                    { 6, 1, 7.99m },
-                    { 6, 2, 12.99m }
+                    { 1, 1, 16.99m },
+                    { 1, 2, 20.99m },
+                    { 1, 3, 23.99m },
+                    { 2, 1, 14.99m },
+                    { 2, 2, 18.99m },
+                    { 2, 3, 21.99m },
+                    { 3, 1, 14.99m },
+                    { 3, 2, 18.99m },
+                    { 3, 3, 21.99m },
+                    { 4, 1, 16.99m },
+                    { 4, 2, 20.99m },
+                    { 4, 3, 23.99m },
+                    { 5, 1, 15.99m },
+                    { 5, 2, 19.99m },
+                    { 5, 3, 22.99m },
+                    { 6, 1, 15.99m },
+                    { 6, 2, 19.99m },
+                    { 6, 3, 22.99m },
+                    { 7, 1, 12.99m },
+                    { 7, 2, 16.99m },
+                    { 7, 3, 19.99m },
+                    { 8, 1, 12.99m },
+                    { 8, 2, 16.99m },
+                    { 8, 3, 19.99m }
                 });
 
             migrationBuilder.CreateIndex(

@@ -100,43 +100,57 @@ namespace UncleLeosPizza.Migrations
                         {
                             ItemId = 1,
                             CategoryId = 1,
-                            Description = "Classic cheese pizza with tomato sauce and mozzarella cheese",
-                            Name = "Cheese Pizza"
+                            Description = "Homemade Red Sauce Base w/ Sausage, Pepperoni, Onion, Fresh Mushrooms, Black Olives, Green Pepper, topped with Provel Cheese",
+                            Name = "Uncle Leo's Deluxe"
                         },
                         new
                         {
                             ItemId = 2,
                             CategoryId = 1,
-                            Description = "Pepperoni pizza with tomato sauce and mozzarella cheese",
-                            Name = "Pepperoni Pizza"
+                            Description = "Homemade Red Sauce Base Topped w/ Italian Sausage, Pepperoni, Crispy Bacon, and Provel Cheese",
+                            Name = "Meat Trio"
                         },
                         new
                         {
                             ItemId = 3,
                             CategoryId = 1,
-                            Description = "Vegetarian pizza with tomato sauce, mozzarella cheese, bell peppers, onions, and mushrooms",
-                            Name = "Veggie Pizza"
+                            Description = "Homemade Red Sauce Base Topped w/ Beef, Onion, Tomato, Jalapenos Peppers, and Provel Cheese",
+                            Name = "Joey's Fave"
                         },
                         new
                         {
                             ItemId = 4,
-                            CategoryId = 2,
-                            Description = "Crisp romaine lettuce, croutons, and Caesar dressing",
-                            Name = "Caesar Salad"
+                            CategoryId = 1,
+                            Description = "Homemade White Sauce Base Topped w/ Grilled Chicken, Yellow Onion, Fresh Mushrooms, Crispy Bacon, Baby Spinach, and Provel Cheese",
+                            Name = "Chicken D'Light"
                         },
                         new
                         {
                             ItemId = 5,
-                            CategoryId = 2,
-                            Description = "Mixed greens, feta cheese, olives, cucumbers, and tomatoes with Greek dressing",
-                            Name = "Greek Salad"
+                            CategoryId = 1,
+                            Description = "Homemade White Sauce Base Topped w/ Italian Sausage, Yellow Onion, Crispy Bacon, Baby Spinach, and Provel Cheese",
+                            Name = "Sausage Special"
                         },
                         new
                         {
                             ItemId = 6,
-                            CategoryId = 3,
-                            Description = "Spicy buffalo wings served with blue cheese dressing",
-                            Name = "Chicken Wings"
+                            CategoryId = 1,
+                            Description = "FUNGO SAUCE! Special Made Buffalo Sauce Base Topped w/ Grilled Chicken, Yellow Onion, Crispy Bacon, and Provel Cheese",
+                            Name = "Fungo Chicken"
+                        },
+                        new
+                        {
+                            ItemId = 7,
+                            CategoryId = 1,
+                            Description = "Olive Oil Base Topped w/ Tomatoes, Basil, Garlic, and Mozzerella Cheese",
+                            Name = "Mariann's Margherita"
+                        },
+                        new
+                        {
+                            ItemId = 8,
+                            CategoryId = 1,
+                            Description = "Homemade Red Sauce Base Topped w/ Green Pepper, Yellow Onion, Black Olives, Fresh Mushrooms, and Provel Cheese",
+                            Name = "Veggie D'Light"
                         });
                 });
 
@@ -160,21 +174,147 @@ namespace UncleLeosPizza.Migrations
                     b.HasData(
                         new
                         {
+                            ItemId = 1,
+                            SizeId = 1,
+                            Price = 16.99m
+                        },
+                        new
+                        {
+                            ItemId = 1,
+                            SizeId = 2,
+                            Price = 20.99m
+                        },
+                        new
+                        {
+                            ItemId = 1,
+                            SizeId = 3,
+                            Price = 23.99m
+                        },
+                        new
+                        {
+                            ItemId = 2,
+                            SizeId = 1,
+                            Price = 14.99m
+                        },
+                        new
+                        {
+                            ItemId = 2,
+                            SizeId = 2,
+                            Price = 18.99m
+                        },
+                        new
+                        {
+                            ItemId = 2,
+                            SizeId = 3,
+                            Price = 21.99m
+                        },
+                        new
+                        {
+                            ItemId = 3,
+                            SizeId = 1,
+                            Price = 14.99m
+                        },
+                        new
+                        {
+                            ItemId = 3,
+                            SizeId = 2,
+                            Price = 18.99m
+                        },
+                        new
+                        {
+                            ItemId = 3,
+                            SizeId = 3,
+                            Price = 21.99m
+                        },
+                        new
+                        {
+                            ItemId = 4,
+                            SizeId = 1,
+                            Price = 16.99m
+                        },
+                        new
+                        {
+                            ItemId = 4,
+                            SizeId = 2,
+                            Price = 20.99m
+                        },
+                        new
+                        {
+                            ItemId = 4,
+                            SizeId = 3,
+                            Price = 23.99m
+                        },
+                        new
+                        {
                             ItemId = 5,
                             SizeId = 1,
-                            Price = 6.99m
+                            Price = 15.99m
+                        },
+                        new
+                        {
+                            ItemId = 5,
+                            SizeId = 2,
+                            Price = 19.99m
+                        },
+                        new
+                        {
+                            ItemId = 5,
+                            SizeId = 3,
+                            Price = 22.99m
                         },
                         new
                         {
                             ItemId = 6,
                             SizeId = 1,
-                            Price = 7.99m
+                            Price = 15.99m
                         },
                         new
                         {
                             ItemId = 6,
                             SizeId = 2,
+                            Price = 19.99m
+                        },
+                        new
+                        {
+                            ItemId = 6,
+                            SizeId = 3,
+                            Price = 22.99m
+                        },
+                        new
+                        {
+                            ItemId = 7,
+                            SizeId = 1,
                             Price = 12.99m
+                        },
+                        new
+                        {
+                            ItemId = 7,
+                            SizeId = 2,
+                            Price = 16.99m
+                        },
+                        new
+                        {
+                            ItemId = 7,
+                            SizeId = 3,
+                            Price = 19.99m
+                        },
+                        new
+                        {
+                            ItemId = 8,
+                            SizeId = 1,
+                            Price = 12.99m
+                        },
+                        new
+                        {
+                            ItemId = 8,
+                            SizeId = 2,
+                            Price = 16.99m
+                        },
+                        new
+                        {
+                            ItemId = 8,
+                            SizeId = 3,
+                            Price = 19.99m
                         });
                 });
 
@@ -259,17 +399,17 @@ namespace UncleLeosPizza.Migrations
                         new
                         {
                             SizeId = 1,
-                            Name = "Small"
+                            Name = "12in."
                         },
                         new
                         {
                             SizeId = 2,
-                            Name = "Medium"
+                            Name = "14in."
                         },
                         new
                         {
                             SizeId = 3,
-                            Name = "Large"
+                            Name = "16in."
                         });
                 });
 
