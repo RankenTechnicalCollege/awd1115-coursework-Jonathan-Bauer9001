@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\models\\salesordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\models\\salesordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,14 +47,6 @@
       "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\migrations\\20250919081917_migration02-category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\models\\salesordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\models\\salesordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot2\\hot2\\salesorder\\migrations\\20250919081341_migration01-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96B32DB8-D1D5-453C-84E8-E40C38F2B1BD}|SalesOrder\\SalesOrder.csproj|solutionrelative:salesorder\\migrations\\20250919081341_migration01-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -58,50 +58,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "SalesOrder\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "SalesOrder\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T01:13:56.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Views\\Product\\AddEdit.cshtml",
-              "RelativeDocumentMoniker": "SalesOrder\\Views\\Product\\AddEdit.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Views\\Product\\AddEdit.cshtml",
-              "RelativeToolTip": "SalesOrder\\Views\\Product\\AddEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T20:40:35.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "SalesOrder\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Controllers\\ProductController.cs",
               "RelativeToolTip": "SalesOrder\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T19:51:38.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Views\\Product\\List.cshtml",
               "RelativeDocumentMoniker": "SalesOrder\\Views\\Product\\List.cshtml",
@@ -109,12 +83,11 @@
               "RelativeToolTip": "SalesOrder\\Views\\Product\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T19:04:26.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T19:04:26.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SalesOrder\\Views\\Home\\Index.cshtml",
@@ -122,64 +95,24 @@
               "RelativeToolTip": "SalesOrder\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T17:58:46.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T17:58:46.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250919081917_Migration02-Category.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Migrations\\20250919081917_Migration02-Category.cs",
-              "RelativeDocumentMoniker": "SalesOrder\\Migrations\\20250919081917_Migration02-Category.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Migrations\\20250919081917_Migration02-Category.cs",
-              "RelativeToolTip": "SalesOrder\\Migrations\\20250919081917_Migration02-Category.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SalesOrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Models\\SalesOrderContext.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Models\\SalesOrderContext.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Models\\SalesOrderContext.cs",
+              "RelativeToolTip": "SalesOrder\\Models\\SalesOrderContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAywBoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T08:19:18.201Z",
+              "WhenOpened": "2025-09-19T07:56:53.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "SalesOrder\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Models\\Category.cs",
-              "RelativeToolTip": "SalesOrder\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T08:15:16.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250919081341_Migration01-Product.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Migrations\\20250919081341_Migration01-Product.cs",
-              "RelativeDocumentMoniker": "SalesOrder\\Migrations\\20250919081341_Migration01-Product.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Migrations\\20250919081341_Migration01-Product.cs",
-              "RelativeToolTip": "SalesOrder\\Migrations\\20250919081341_Migration01-Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T08:13:41.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Program.cs",
-              "RelativeDocumentMoniker": "SalesOrder\\Program.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Program.cs",
-              "RelativeToolTip": "SalesOrder\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T08:00:24.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\appsettings.json",
               "RelativeDocumentMoniker": "SalesOrder\\appsettings.json",
@@ -192,20 +125,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SalesOrderContext.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Models\\SalesOrderContext.cs",
-              "RelativeDocumentMoniker": "SalesOrder\\Models\\SalesOrderContext.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Models\\SalesOrderContext.cs",
-              "RelativeToolTip": "SalesOrder\\Models\\SalesOrderContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBoAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Program.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Program.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Program.cs",
+              "RelativeToolTip": "SalesOrder\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T07:56:53.645Z",
+              "WhenOpened": "2025-09-19T08:00:24.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Views\\Product\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "SalesOrder\\Views\\Product\\AddEdit.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Views\\Product\\AddEdit.cshtml",
+              "RelativeToolTip": "SalesOrder\\Views\\Product\\AddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T20:40:35.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SalesOrder\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "SalesOrder\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:13:56.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250919081917_Migration02-Category.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Migrations\\20250919081917_Migration02-Category.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Migrations\\20250919081917_Migration02-Category.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Migrations\\20250919081917_Migration02-Category.cs",
+              "RelativeToolTip": "SalesOrder\\Migrations\\20250919081917_Migration02-Category.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:19:18.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Models\\Category.cs",
+              "RelativeToolTip": "SalesOrder\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:15:16.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250919081341_Migration01-Product.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Migrations\\20250919081341_Migration01-Product.cs",
+              "RelativeDocumentMoniker": "SalesOrder\\Migrations\\20250919081341_Migration01-Product.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Migrations\\20250919081341_Migration01-Product.cs",
+              "RelativeToolTip": "SalesOrder\\Migrations\\20250919081341_Migration01-Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:13:41.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT2\\HOT2\\SalesOrder\\Models\\Product.cs",
               "RelativeDocumentMoniker": "SalesOrder\\Models\\Product.cs",

@@ -1,0 +1,14 @@
+﻿@model HOT3.Models.Product
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewBag.Title = "Delete Card Sleeve";
+}
+<h1>Delete @Model.Slug?</h1>
+<form asp-action="Delete" asp-controller="CardSleeve" method="post">
+	<input type="hidden" asp-for="ProductId" />
+	<p>Are you sure you want to delete the card sleeve "<strong>@Model.Slug</strong>"?</p>
+	<button type="submit" class="btn btn-danger">Delete</button>
+	<a asp-action="List" asp-controller="CardSleeve" class="btn btn-secondary">Cancel</a>
+</form>

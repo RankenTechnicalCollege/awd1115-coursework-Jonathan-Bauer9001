@@ -18,12 +18,13 @@ namespace UncleLeosPizza.Controllers
         {
             return View();
         }
-
+        [Route("privacy")]
+        [Route("privacypolicy")]
         public IActionResult Privacy()
         {
             return View();
         }
-
+        [Route("about")]
         public IActionResult About()
         {
             return View();

@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\areas\\help\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\help\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\areas\\help\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\help\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\areas\\help\\views\\shared\\_helplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\help\\views\\shared\\_helplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\areas\\help\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\help\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\areas\\help\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\help\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\areas\\help\\views\\tutorial\\page3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\help\\views\\tutorial\\page3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\areas\\help\\views\\tutorial\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\help\\views\\tutorial\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\areas\\help\\views\\tutorial\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\help\\views\\tutorial\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch07\\ch07lab\\lab7\\areas\\help\\controllers\\tutorialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69428103-36AA-411D-8C18-B8CE4A0A2B5E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\areas\\help\\controllers\\tutorialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7\\Program.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Program.cs",
+              "RelativeToolTip": "Lab7\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T05:23:07.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab7\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T05:17:31.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_HelpLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\Shared\\_HelpLayout.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Help\\Views\\Shared\\_HelpLayout.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\Shared\\_HelpLayout.cshtml",
+              "RelativeToolTip": "Lab7\\Areas\\Help\\Views\\Shared\\_HelpLayout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T05:19:19.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Help\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab7\\Areas\\Help\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T05:14:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Help\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab7\\Areas\\Help\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T05:13:38.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Help\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab7\\Areas\\Help\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T05:06:25.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page3.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
+              "RelativeToolTip": "Lab7\\Areas\\Help\\Views\\Tutorial\\Page3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T05:04:36.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Page2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\Tutorial\\Page2.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Help\\Views\\Tutorial\\Page2.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\Tutorial\\Page2.cshtml",
+              "RelativeToolTip": "Lab7\\Areas\\Help\\Views\\Tutorial\\Page2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T05:04:21.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\Tutorial\\Page1.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Help\\Views\\Tutorial\\Page1.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Views\\Tutorial\\Page1.cshtml",
+              "RelativeToolTip": "Lab7\\Areas\\Help\\Views\\Tutorial\\Page1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T05:04:12.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Lab7\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T05:03:12.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Help\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab7\\Areas\\Help\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T05:01:11.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Lab7\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Lab7\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T05:03:01.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TutorialController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Controllers\\TutorialController.cs",
+              "RelativeDocumentMoniker": "Lab7\\Areas\\Help\\Controllers\\TutorialController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\Areas\\Help\\Controllers\\TutorialController.cs",
+              "RelativeToolTip": "Lab7\\Areas\\Help\\Controllers\\TutorialController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T05:01:38.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Lab7\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH07\\Ch07Lab\\Lab7\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Lab7\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-10T04:58:42.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

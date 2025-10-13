@@ -1,0 +1,59 @@
+﻿@model List<HOT3.Models.Product>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewBag.Title = "Admin - Card Sleeves List";
+}
+<h1>Admin - Card Sleeves</h1>
+<a asp-controller="CardSleeve" asp-action="Add" class="btn btn-primary mb-3">Add New Card Sleeve</a>
+<div class="row my-5">
+	<div class="col-md-2">
+		<h3>Brands</h3>
+		<ul class="list-group">
+			<li class="list-group-item">
+				<a asp-controller="CardSleeve" asp-action="List" asp-route-brand="all">All Brands</a>
+			</li>
+			<li class="list-group-item">
+				<a asp-controller="CardSleeve" asp-action="List" asp-route-brand="Dragon Shield">Dragon Shield</a>
+			</li>
+			<li class="list-group-item">
+				<a asp-controller="CardSleeve" asp-action="List" asp-route-brand="Ultimate Guard">Ultimate Guard</a>
+			</li>
+			<li class="list-group-item">
+				<a asp-controller="CardSleeve" asp-action="List" asp-route-brand="Ultra Pro">Ultra Pro</a>
+			</li>
+		</ul>
+	</div>
+	<div class="col-md-10">
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th>Image</th>
+					<th>Name</th>
+					<th>Brand</th>
+					<th>Color</th>
+					<th>Price</th>
+					<th>Stock</th>
+					<th>Actions</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var product in Model)
+				{
+					<tr>
+						<td><img src="~/images/@product.ProductImageUrl" style="max-width:10rem"/></td>
+						<td>@product.ProductName</td>
+						<td>@product.ProductBrand</td>
+						<td>@product.ProductColor</td>
+						<td>@product.ProductPrice?.ToString("C")</td>
+						<td>@product.ProductStock?.ToString()</td>
+						<td>
+							<a asp-controller="CardSleeve" asp-action="Add" asp-route-id="@product.ProductId" asp-route-slug="@product.Slug" class="btn btn-sm btn-warning">Edit</a>
+							<a asp-controller="CardSleeve" asp-action="Delete" asp-route-id="@product.ProductId" asp-route-slug="@product.Slug" class="btn btn-sm btn-danger">Delete</a>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+</div>

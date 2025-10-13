@@ -1,0 +1,30 @@
+﻿@model Product
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewBag.Title = "Card Sleeve Details";
+}
+<h1>@ViewBag.Title</h1>
+<input type="hidden" asp-for="@Model.ProductId" />
+<div class="card mb-3" style="max-width: 540px;">
+	<div class="row g-0">
+		<div class="col-md-4">
+			<img src="~/images/@Model.ProductImageUrl" class="img-fluid rounded-start" alt="@Model.ProductName" />
+		</div>
+		<div class="col-md-8">
+			<div class="card-body">
+				<h5 class="card-title">@Model.ProductName</h5>
+				<p class="card-text"><strong>Brand:</strong> @Model.ProductBrand</p>
+				<p class="card-text"><strong>Color:</strong> @Model.ProductColor</p>
+				<p class="card-text"><strong>Price:</strong> @Model.ProductPrice</p>
+				<p class="card-text"><strong>Stock:</strong> @Model.ProductStock</p>
+				<a asp-action="List" asp-controller="CardSleeve" class="btn btn-secondary">Back to List</a>
+				<div class="card-body">
+					<a asp-action="AddToCart" asp-controller="ShoppingCart" asp-route-id="@Model.ProductId" class="btn btn-success">Add To Cart</a>
+					<a asp-action="List" asp-controller="CardSleeve" class="btn btn-secondary">Back to List</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

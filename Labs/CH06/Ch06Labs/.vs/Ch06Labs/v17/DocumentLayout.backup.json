@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\models\\faqscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +19,24 @@
       "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Migrations\\20250925151938_DbCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FAQs1\\Migrations\\20250925151938_DbCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch06\\ch06labs\\faqs1\\migrations\\20250925151938_dbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D69A3D-0878-4D2A-8223-EE346D18AB81}|FAQs1\\FAQs1.csproj|solutionrelative:faqs1\\migrations\\20250925151938_dbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FAQs1\\Views\\Home\\Index.cshtml",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FAQs1\\Controllers\\HomeController.cs",
@@ -71,25 +71,11 @@
               "RelativeToolTip": "FAQs1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T15:23:11.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T15:23:11.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250925151938_DbCreation.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Migrations\\20250925151938_DbCreation.cs",
-              "RelativeDocumentMoniker": "FAQs1\\Migrations\\20250925151938_DbCreation.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Migrations\\20250925151938_DbCreation.cs",
-              "RelativeToolTip": "FAQs1\\Migrations\\20250925151938_DbCreation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T15:19:38.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Program.cs",
               "RelativeDocumentMoniker": "FAQs1\\Program.cs",
@@ -102,7 +88,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "20250925151938_DbCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Migrations\\20250925151938_DbCreation.cs",
+              "RelativeDocumentMoniker": "FAQs1\\Migrations\\20250925151938_DbCreation.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Migrations\\20250925151938_DbCreation.cs",
+              "RelativeToolTip": "FAQs1\\Migrations\\20250925151938_DbCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:19:38.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\appsettings.json",
               "RelativeDocumentMoniker": "FAQs1\\appsettings.json",
@@ -115,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FAQsContext.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Models\\FAQsContext.cs",
               "RelativeDocumentMoniker": "FAQs1\\Models\\FAQsContext.cs",
@@ -128,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "FAQ.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Models\\FAQ.cs",
               "RelativeDocumentMoniker": "FAQs1\\Models\\FAQ.cs",
@@ -141,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Models\\Category.cs",
               "RelativeDocumentMoniker": "FAQs1\\Models\\Category.cs",
@@ -154,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Topic.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH06\\Ch06Labs\\FAQs1\\Models\\Topic.cs",
               "RelativeDocumentMoniker": "FAQs1\\Models\\Topic.cs",

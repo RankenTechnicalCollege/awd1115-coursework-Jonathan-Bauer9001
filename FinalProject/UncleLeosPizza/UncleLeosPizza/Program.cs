@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.Design;
 using UncleLeosPizza.Models;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -33,8 +34,21 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllerRoute(
+      name: "areas",
+      pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+    );
+});
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}/{slug?}");
+
+app.MapControllerRoute(
+    name: "categoryFilter",
+    pattern: "Menu/{action}/{categorySlug?}",
+    defaults: new { controller = "Menu", action = "Index" });
 
 app.Run();
