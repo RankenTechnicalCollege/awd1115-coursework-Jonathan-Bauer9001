@@ -1,0 +1,14 @@
+﻿@model UncleLeosApp.Models.Product
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewData["Title"] = "Admin - Delete Menu Item";
+}
+<h1>Admin - Delete Menu Item</h1>
+<form asp-action="Delete" asp-controller="Menu" method="post">
+	<input type="hidden" asp-for="ProductId" />
+	<p>Are you sure youy want to delete " @Model.ProductName " ?</p>
+	<button type="submit" class="btn btn-danger">Delete</button>
+	<a asp-action="List" asp-controller="Menu" asp-route-categoryName="all" class="btn btn-secondary">Cancel</a>
+</form>

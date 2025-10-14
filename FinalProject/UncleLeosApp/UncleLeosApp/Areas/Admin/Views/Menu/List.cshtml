@@ -1,0 +1,73 @@
+﻿@model List<UncleLeosApp.Models.Product>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewData["Title"] = "Admin - Menu List";
+}
+<h1>Admin - Menu List</h1>
+<div class="row my-5">
+	<div class="col-md-2">
+		<a asp-action="AddEdit" asp-controller="Menu" asp-area="Admin" class="btn btn-success">Add New Product</a>
+		<h3>Categories</h3>
+		<ul class="list-group">
+			<li class="list-group-item">
+				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="all">All Items</a>
+			</li>
+			<li class="list-group-item">
+				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Pizza">Pizzas</a>
+			</li>
+			<li class="list-group-item">
+				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Sandwich">Sandwiches</a>
+			</li>
+			<li class="list-group-item">
+				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Salad">Salads</a>
+			</li>
+			<li class="list-group-item">
+				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Appetizer">Appetizers</a>
+			</li>
+			<li class="list-group-item">
+				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Dessert">Desserts</a>
+			</li>
+			<li class="list-group-item">
+				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Beverage">Drinks</a>
+			</li>
+			<li class="list-group-item">
+				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Pasta">Pastas</a>
+			</li>
+		</ul>
+	</div>
+	
+	<div class="col-md-10">
+		<table class="table table-bordered table-striped">
+			<thead>
+				<tr>
+					<th>Product ID</th>
+					<th>Name</th>
+					<th>Description</th>
+					<th>Price</th>
+					<th>Category</th>
+					<th>Image URL</th>
+					<th>Actions</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var item in Model)
+				{
+					<tr>
+						<td>@item.ProductId</td>
+						<td>@item.ProductName</td>
+						<td>@item.ProductDescription</td>
+						<td>@item.ProductPrice?.ToString("C")</td>
+						<td>@item.Category.CategoryName</td>
+						<td>@item.ProductImage</td>
+						<td>
+							<a asp-area="Admin" asp-controller="Menu" asp-action="AddEdit" asp-route-id="@item.ProductId" asp-route-slug="@item.Slug" class="btn btn-sm btn-primary">Edit</a>
+							<a asp-area="Admin" asp-controller="Menu" asp-action="Delete" asp-route-id="@item.ProductId" asp-route-slug="@item.Slug" class="btn btn-sm btn-danger">Delete</a>
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+</div>

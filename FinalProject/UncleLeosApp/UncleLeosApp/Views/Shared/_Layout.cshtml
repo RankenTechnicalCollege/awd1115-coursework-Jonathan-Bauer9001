@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Pizza Night? Make It Count With Uncle Leo's Pizza [Local, Family-Owned] </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/UncleLeosApp.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Pacifico&family=Roboto&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="flavor-ribbon">
+        <ul>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Uncle Leo's Deluxe</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Chicken D'Light</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Sausage Special</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Joey's Fave</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Mariants Margerita</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Veggie D'Light</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Failoni Wings</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Rosemary's Olives</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Italian Sub</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Pasta Carbonara</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Homemade Meatballs</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Canneloni</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Failoni Burger</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Fungo Sauce</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Deluxe Chef Salad</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Toasted Ravioli</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Spinnoci </span>
+            </li>
+        </ul>
+        <ul aria-hidden="true">
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Uncle Leo's Deluxe</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Chicken D'Light</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Sausage Special</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Joey's Fave</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Mariants Margerita</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Veggie D'Light</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Failoni Wings</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Rosemary's Olives</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Italian Sub</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Pasta Carbonara</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Homemade Meatballs</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Canneloni</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Failoni Burger</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Fungo Sauce</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Deluxe Chef Salad</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Toasted Ravioli</span>
+            </li>
+            <li>
+                <span class="flavor-icon"></span>
+                <span class="flavor-item">Spinnoci </span>
+            </li>
+        </ul>
+    </div>
+	@RenderBody()
+
+    <footer class="border-top bg-danger footer text-muted">
+        <div class="container text-light">
+
+            &copy; 2025 - UncleLeosPizza - <a class="text-light" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy Policy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

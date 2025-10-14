@@ -1,0 +1,40 @@
+﻿@model UncleLeosApp.Models.Product
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewBag.Title = "Add/Edit Product"; 
+}
+<h1>@ViewBag.Title</h1>
+<form asp-action="AddEdit" asp-controller="Menu" asp-area="Admin" method="post" enctype="multipart/form-data">
+	<input type="hidden" asp-for="ProductId" />
+	<div class="form-group">
+		<label asp-for="ProductName"></label>
+		<input asp-for="ProductName" class="form-control" />
+		<span asp-validation-for="ProductName" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="ProductDescription"></label>
+		<textarea asp-for="ProductDescription" class="form-control"></textarea>
+		<span asp-validation-for="ProductDescription" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="ProductPrice"></label>
+		<input asp-for="ProductPrice" class="form-control" />
+		<span asp-validation-for="ProductPrice" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="CategoryId">Category</label>
+		<select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories">
+			<option value="">-- Select Category --</option>
+		</select>
+		<span asp-validation-for="CategoryId" class="text-danger"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="ProductImage"></label>
+		<input asp-for="ProductImage" class="form-control" />
+		<span asp-validation-for="ProductImage" class="text-danger"></span>
+	</div>
+	<button type="submit" class="btn btn-primary">Save</button>
+	<a asp-action="List" asp-controller="Menu" asp-area="Admin" asp-route-categoryName="allitem" class="btn btn-secondary">Cancel</a>
+</form>
