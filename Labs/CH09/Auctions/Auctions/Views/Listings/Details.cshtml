@@ -1,0 +1,125 @@
+﻿@model Auctions.Models.Listing
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<IdentityUser> userManager
+@{
+	ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+@if (User.Identity.IsAuthenticated)
+{
+	@if (Model.IsSold == true)
+	{
+		@foreach (var bid in Model.Bids)
+		{
+			@if (bid.Price == Model.Price)
+			{
+				@if (bid.IdentityUserId == userManager.GetUserId(User))
+				{
+					<h2>Congratulations! You won the auction for "@Model.Title" with a bid of @Model.Price.ToString("C")</h2>
+				}
+				else if (userManager.GetUserId(User) == Model.IdentityUserId)
+				{
+					<h2>The auction for "@Model.Title" has ended. The winning bid was @Model.Price.ToString("C") by user with ID: @bid.IdentityUserId</h2>
+				}
+				else
+				{
+					<h5>Bidding is closed.</h5>
+				}
+			}
+		}
+
+	}
+}
+
+<h4 style="text-align: center">@Model.Title</h4>
+<div class="container" style="background-color: rgba(138,129,133,0.6); margin-top: 50px; margin-bottom: 50px; padding: 20px; border-radius: 10px;">
+	<div class="row">
+		<div class="col col-xs-6 col-lg-5">
+			<img src="~/images/@Model.ImagePath" style="max-width:100%; max-height: 60vh;" />
+		</div>
+		<div class="col col-xs-6 col-lg-7">
+			<p>@Model.Description</p>
+			@if (User.Identity.IsAuthenticated)
+			{
+				<form asp-action="AddBid" method="post">
+					<div>
+						Bid: <input type="number" step="1" min="@Model.Price" name="Price" placeholder="@Model.Price.ToString("C")" required />
+						<input type="hidden" name="IdentityUserId" class="form-control" value="@userManager.GetUserId(User)" />
+						<input type="hidden" name="ListingId" class="form-control" value="@Model.Id" />
+						<input type="submit" value="Place Bid" class="btn btn-primary" />
+					</div>
+				</form>
+				<p>Bids submitted: @Model.Bids.Count</p>
+				<br />
+				@if (userManager.GetUserId(User) == Model.IdentityUser.Id)
+				{
+					@foreach (var bid in Model.Bids)
+					{
+						<ul style="list-style-type: none;">
+							@bid.IdentityUser.UserName: @bid.Price.ToString("C");
+						</ul>
+					}
+				}
+			}
+			else
+			{
+				<div>
+					Bid: <input type="number" step="1" min="@Model.Price" name="Price" placeholder="@Model.Price.ToString("C")" disabled />
+				</div>
+				<p>Bids submitted: @Model.Bids.Count</p>
+			}
+			<div>Listed by: @Model.IdentityUser.UserName</div>
+			@if (User.Identity.IsAuthenticated)
+			{
+				@if (userManager.GetUserId(User) == Model.IdentityUser.Id)
+				{
+					@if (Model.IsSold == false)
+					{
+						<a asp-action="CloseBidding" asp-route-id="@Model.Id">Close bidding</a>
+					}
+				}
+			}
+		</div>
+	</div>
+</div>
+<br />
+@if (User.Identity.IsAuthenticated)
+{
+	<div class="container">
+		<form asp-action="AddComment" method="post">
+			<h6>Add Comment</h6>
+			<textarea class="form-control" aria-label="With textarea" name="Content" style="width: 40%; vertical-align: top;" required></textarea>
+			<input type="hidden" name="IdentityUserId" class="form-control" value="@userManager.GetUserId(User)" />
+			<input type="hidden" name="ListingId" class="form-control" value="@Model.Id" />
+			<input type="submit" value="Post Comment" class="btn btn-primary" style="display: inline-block; margin-top: 10px;" />
+		</form>
+	</div>
+}
+else
+{
+	<div class="container">
+		<h6>Add Comment</h6>
+		<textarea class="form-control" aria-label="With textarea" name="Content" style="width: 40%; vertical-align: top;" required></textarea>
+		<input disabled type="submit" value="Post Comment" class="btn btn-primary" style="display: inline-block; margin-top: 10px;" />
+	</div>
+}
+<br />
+<div class="container">
+	<h4>Comments</h4>
+	@if (Model.Comments.Any())
+	{
+		@foreach (var comment in Model.Comments)
+		{
+			<div class="container" style="background-color: rgba(200,200,200,0.4); margin-top: 20px; padding: 10px; border-radius: 10px;">
+				<p>@comment.Content</p>
+				<p>Posted by: @comment.IdentityUser.UserName</p>
+			</div>
+		}
+	}
+	else
+	{
+		<p>No comments yet.</p>
+	}
+</div>
