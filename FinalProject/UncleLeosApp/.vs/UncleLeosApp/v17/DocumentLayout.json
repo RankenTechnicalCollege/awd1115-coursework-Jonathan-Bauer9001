@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\areas\\admin\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\areas\\admin\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +35,28 @@
       "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\areas\\admin\\views\\menu\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\areas\\admin\\views\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\areas\\admin\\views\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\views\\onlineorder\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\views\\onlineorder\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\areas\\admin\\views\\menu\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\areas\\admin\\views\\menu\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\Areas\\Admin\\Views\\Menu\\List.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Views\\Menu\\List.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\views\\menu\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,18 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\views\\merch\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\views\\merch\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\areas\\admin\\views\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\areas\\admin\\views\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\finalproject\\uncleleosapp\\uncleleosapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F168E099-6ABA-435D-9DD1-ED3D6B086855}|UncleLeosApp\\UncleLeosApp.csproj|solutionrelative:uncleleosapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,17 +78,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Views\\OnlineOrder\\ViewCart.cshtml",
+              "RelativeDocumentMoniker": "UncleLeosApp\\Views\\OnlineOrder\\ViewCart.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Views\\OnlineOrder\\ViewCart.cshtml",
+              "RelativeToolTip": "UncleLeosApp\\Views\\OnlineOrder\\ViewCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T21:52:56.217Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UncleLeosApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UncleLeosApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T21:33:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "UncleLeosApp\\Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "UncleLeosApp\\Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T21:18:36.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "UncleLeosApp\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "UncleLeosApp\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T21:17:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UncleLeosApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UncleLeosApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:17:01.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UncleLeosApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UncleLeosApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:12:27.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\Areas\\Admin\\Views\\Menu\\List.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Menu\\List.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\Areas\\Admin\\Views\\Menu\\List.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Menu\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T05:53:15.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "UncleLeosApp\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "UncleLeosApp\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAACOAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-14T06:22:15.69Z",
               "EditorCaption": ""
@@ -84,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Views\\Menu\\Detail.cshtml",
               "RelativeDocumentMoniker": "UncleLeosApp\\Views\\Menu\\Detail.cshtml",
@@ -92,12 +203,11 @@
               "RelativeToolTip": "UncleLeosApp\\Views\\Menu\\Detail.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T05:52:45.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T05:52:45.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Views\\Merch\\Detail.cshtml",
               "RelativeDocumentMoniker": "UncleLeosApp\\Views\\Merch\\Detail.cshtml",
@@ -105,12 +215,11 @@
               "RelativeToolTip": "UncleLeosApp\\Views\\Merch\\Detail.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T05:46:36.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T05:46:36.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Views\\Menu\\List.cshtml",
               "RelativeDocumentMoniker": "UncleLeosApp\\Views\\Menu\\List.cshtml",
@@ -118,8 +227,7 @@
               "RelativeToolTip": "UncleLeosApp\\Views\\Menu\\List.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T05:45:18.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T05:45:18.792Z"
             },
             {
               "$type": "Document",
@@ -129,95 +237,58 @@
               "RelativeDocumentMoniker": "UncleLeosApp\\Areas\\Admin\\Views\\Menu\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Views\\Menu\\Delete.cshtml",
               "RelativeToolTip": "UncleLeosApp\\Areas\\Admin\\Views\\Menu\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T05:04:55.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T05:04:55.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Program.cs",
               "RelativeDocumentMoniker": "UncleLeosApp\\Program.cs",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Program.cs",
               "RelativeToolTip": "UncleLeosApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T04:23:58.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Views\\Menu\\List.cshtml",
               "RelativeDocumentMoniker": "UncleLeosApp\\Areas\\Admin\\Views\\Menu\\List.cshtml",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Views\\Menu\\List.cshtml",
               "RelativeToolTip": "UncleLeosApp\\Areas\\Admin\\Views\\Menu\\List.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T04:22:44.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T04:22:44.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "AddEdit.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Views\\Menu\\AddEdit.cshtml",
               "RelativeDocumentMoniker": "UncleLeosApp\\Areas\\Admin\\Views\\Menu\\AddEdit.cshtml",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Views\\Menu\\AddEdit.cshtml",
               "RelativeToolTip": "UncleLeosApp\\Areas\\Admin\\Views\\Menu\\AddEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T22:46:05.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T22:46:05.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MenuController.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Controllers\\MenuController.cs",
               "RelativeDocumentMoniker": "UncleLeosApp\\Areas\\Admin\\Controllers\\MenuController.cs",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Areas\\Admin\\Controllers\\MenuController.cs",
               "RelativeToolTip": "UncleLeosApp\\Areas\\Admin\\Controllers\\MenuController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvzIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T22:46:03.534Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "886eb8a8-47ca-4457-899b-d2685949f1e1",
-        "Display": 1,
-        "X": 227,
-        "Y": 440,
-        "Width": 1564,
-        "Height": 856,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "UncleLeosApp\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\FinalProject\\UncleLeosApp\\UncleLeosApp\\Models\\Product.cs",
-              "RelativeToolTip": "UncleLeosApp\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T04:19:42.873Z",
               "EditorCaption": ""
             }
           ]

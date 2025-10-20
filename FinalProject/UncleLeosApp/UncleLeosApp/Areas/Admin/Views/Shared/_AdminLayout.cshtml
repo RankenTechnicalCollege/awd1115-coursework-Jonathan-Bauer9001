@@ -1,6 +1,56 @@
 ﻿@{
     Layout = "_Layout";
+	string area = ViewContext.RouteData.Values["area"]?.ToString() ?? "";
+	string c = ViewContext.RouteData.Values["controller"]?.ToString() ?? "";
+	string a = ViewContext.RouteData.Values["action"]?.ToString() ?? "";
 }
+<style>
+    a.navbar-brand {
+        font-family: "Bungee", sans-serif;
+        white-space: normal;
+        text-align: center;
+        word-break: break-all;
+    }
+    .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+        color: #fff;
+        background-color: #1b6ec2;
+        border-color: #1861ac;
+    }
+    nav {
+        border-bottom: .25rem solid #174;
+    }
+    .nav-link {
+        transition: text-decoration 0.2s, transform 0.15s;
+        font-weight: 500;
+    }
+    .nav-link:hover {
+        text-decoration: underline;
+    }
+    /* Ensure active links are visually underlined and stand out */
+    .nav-link.active {
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+        text-underline-offset: 3px;
+        color: #000 !important;
+        font-weight: 600;
+    }
+    /* Buttons that act like nav links (ORDER ONLINE, Admin Section) */
+    .nav-btn.active {
+        text-decoration: underline;
+        text-underline-offset: 3px;
+        transform: none; /* keep button stable when active */
+    }
+    .box-shadow {
+        box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+    }
+    .nav-btn {
+        transition: transform 0.2s;
+    }
+    .nav-btn:hover, .nav-link:hover {
+        transform: scale(1.05);
+        color: black;
+		}
+</style>
 <header>
     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
         <div class="container-fluid">
@@ -12,13 +62,13 @@
             <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                 <ul class="navbar-nav flex-grow-1">
                     <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Return to Site</a>
+                        <a class="nav-link text-dark @(c == "Home" && a == "Index" ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Index">Return to Site</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="Admin" asp-controller="Menu" asp-action="List" asp-route-categoryName="allitem">Edit Menu</a>
+                        <a class="nav-link text-dark @(area== "Admin" && c == "Menu" && a == "List" ? "active" : "")" asp-area="Admin" asp-controller="Menu" asp-action="List" asp-route-categoryName="allitem">Edit Menu</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="Admin" asp-controller="Home" asp-action="About">Edit About</a>
+                        <a class="nav-link text-dark @(area == "Admin" && c == "Home" && a == "About" ? "active" : "")" asp-area="Admin" asp-controller="Home" asp-action="About">Edit About</a>
                     </li>
                 </ul>
             </div>
@@ -30,3 +80,7 @@
         @RenderBody()
     </main>
 </div>
+
+@section scripts {
+    @RenderSection("Scripts", required: false)
+}

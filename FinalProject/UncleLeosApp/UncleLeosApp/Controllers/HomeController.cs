@@ -18,6 +18,13 @@ namespace UncleLeosApp.Controllers
             return View();
         }
 
+        [Route("[action]")]
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        [Route("[action]")]
         public IActionResult Privacy()
         {
             return View();

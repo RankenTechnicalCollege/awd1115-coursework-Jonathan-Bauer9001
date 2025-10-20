@@ -18,7 +18,21 @@ namespace Lab7.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        [Route("[action]")]
+        public IActionResult Contact()
+        {
+            var contact = new Dictionary<string, string>
+            {
+                { "Phone", "555-123-4567" },
+                { "Email", "me@mywebsite.com" },
+                { "Facebook", "facebook.com/mywebsite" }  
+            };
+
+            return View(contact);
+        }
+
+        [Route("[action]")]
+        public IActionResult About()
         {
             return View();
         }

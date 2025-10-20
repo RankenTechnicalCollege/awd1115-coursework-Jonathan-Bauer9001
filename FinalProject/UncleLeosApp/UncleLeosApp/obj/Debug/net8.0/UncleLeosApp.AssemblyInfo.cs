@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UncleLeosApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+562cf2bce1caf3656c0dffdc0510ef8eaf7d08e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b179435c62774f2cba9974a2085bcf3931e5f736")]
 [assembly: System.Reflection.AssemblyProductAttribute("UncleLeosApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UncleLeosApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

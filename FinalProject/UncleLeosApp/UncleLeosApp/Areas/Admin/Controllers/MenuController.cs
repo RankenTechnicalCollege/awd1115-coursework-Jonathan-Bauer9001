@@ -51,6 +51,7 @@ namespace UncleLeosApp.Areas.Admin.Controllers
         [Route("admin/menu/list/{CategoryName}s")]
         public IActionResult List(string categoryName = "allitem")
         {
+            var categories = _context.Categories.ToList();
             List<Product> product;
 
             if (categoryName == "allitem")
@@ -66,7 +67,8 @@ namespace UncleLeosApp.Areas.Admin.Controllers
                     .Where(p => p.Category.CategoryName.ToLower() == categoryName.ToLower())
                     .ToList();
             }
-
+            ViewBag.SelectedCategory = categoryName ?? "allitem";
+            ViewBag.Categories = _context.Categories.ToList();
             return View(product);
         }
        

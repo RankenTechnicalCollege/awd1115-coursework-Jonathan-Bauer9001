@@ -10,32 +10,13 @@
 	<div class="col-md-2">
 		<a asp-action="AddEdit" asp-controller="Menu" asp-area="Admin" class="btn btn-success">Add New Product</a>
 		<h3>Categories</h3>
-		<ul class="list-group">
-			<li class="list-group-item">
-				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="all">All Items</a>
-			</li>
-			<li class="list-group-item">
-				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Pizza">Pizzas</a>
-			</li>
-			<li class="list-group-item">
-				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Sandwich">Sandwiches</a>
-			</li>
-			<li class="list-group-item">
-				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Salad">Salads</a>
-			</li>
-			<li class="list-group-item">
-				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Appetizer">Appetizers</a>
-			</li>
-			<li class="list-group-item">
-				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Dessert">Desserts</a>
-			</li>
-			<li class="list-group-item">
-				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Beverage">Drinks</a>
-			</li>
-			<li class="list-group-item">
-				<a asp-controller="Menu" asp-action="List" asp-route-categoryName="Pasta">Pastas</a>
-			</li>
-		</ul>
+		<div class="list-group">
+			<a asp-action="List" asp-controller="Menu" asp-area="Admin" asp-route-categoryName="allitem" class="list-group-item list-group-item-action @(ViewBag.SelectedCategory == "allitem" ? "active" : "")" >All Items</a>
+			@foreach (Category c in ViewBag.Categories)
+			{
+				<a asp-action="List" asp-controller="Menu" asp-area="Admin" asp-route-categoryName="@c.CategoryName" class="list-group-item list-group-item-action @(ViewBag.SelectedCategory == c.CategoryName.ToLower() ? "active" : "")">@c.CategoryName</a>
+			}
+		</div>
 	</div>
 	
 	<div class="col-md-10">

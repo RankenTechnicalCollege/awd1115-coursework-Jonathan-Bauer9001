@@ -1,5 +1,18 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model Dictionary<string, string>
 @{
+	ViewData["Title"] = "Contact";
 }
+
+<h1>Contact Me</h1>
+
+<table class="table">
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Key</th>
+                <td>@item.Value</td>
+            </tr>
+        }
+    </tbody>
+</table>
