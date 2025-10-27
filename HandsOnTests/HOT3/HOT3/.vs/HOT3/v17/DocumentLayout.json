@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\shoppingcart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\shoppingcart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\models\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\models\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Migrations\\20251013044737_AddedPurchases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HOT3\\Migrations\\20251013044737_AddedPurchases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\cardsleeve\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\cardsleeve\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\cardsleeve\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\cardsleeve\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\cardsleeve\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\cardsleeve\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\controllers\\cardsleevecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\controllers\\cardsleevecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\controllers\\cardsleevecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,28 +59,48 @@
       "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\cardsleeve\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\cardsleeve\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\cardsleeve\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\cardsleeve\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\cardsleeve\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\controllers\\cardsleevecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\controllers\\cardsleevecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\cardsleeve\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\cardsleeve\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\shoppingcart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\shoppingcart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -90,40 +110,16 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HOT3/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\cardsleeve\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\cardsleeve\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\migrations\\20251012213605_additionalbrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\migrations\\20251012213605_additionalbrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\migrations\\20251012200915_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\migrations\\20251012200915_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\handsontests\\hot3\\hot3\\hot3\\migrations\\20251013044737_addedpurchases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE10065A-8CA4-4E73-B222-DC71CF56375D}|HOT3\\HOT3.csproj|solutionrelative:hot3\\migrations\\20251013044737_addedpurchases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -133,115 +129,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 416,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20251013044737_AddedPurchases.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Migrations\\20251013044737_AddedPurchases.cs",
-              "RelativeDocumentMoniker": "HOT3\\Migrations\\20251013044737_AddedPurchases.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Migrations\\20251013044737_AddedPurchases.cs",
-              "RelativeToolTip": "HOT3\\Migrations\\20251013044737_AddedPurchases.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T04:47:38.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Purchase.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\Purchase.cs",
-              "RelativeDocumentMoniker": "HOT3\\Models\\Purchase.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\Purchase.cs",
-              "RelativeToolTip": "HOT3\\Models\\Purchase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T04:44:34.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "HOT3\\Models\\SessionExtensions.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\SessionExtensions.cs",
-              "RelativeToolTip": "HOT3\\Models\\SessionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T02:47:59.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ViewCart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\ShoppingCart\\ViewCart.cshtml",
-              "RelativeDocumentMoniker": "HOT3\\Views\\ShoppingCart\\ViewCart.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\ShoppingCart\\ViewCart.cshtml",
-              "RelativeToolTip": "HOT3\\Views\\ShoppingCart\\ViewCart.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T02:20:48.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "HOT3\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "HOT3\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAGMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T01:57:58.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CardSleeveController.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Controllers\\CardSleeveController.cs",
-              "RelativeDocumentMoniker": "HOT3\\Controllers\\CardSleeveController.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Controllers\\CardSleeveController.cs",
-              "RelativeToolTip": "HOT3\\Controllers\\CardSleeveController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T01:46:19.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShoppingCartViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ShoppingCartViewModel.cs",
-              "RelativeDocumentMoniker": "HOT3\\Models\\ShoppingCartViewModel.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ShoppingCartViewModel.cs",
-              "RelativeToolTip": "HOT3\\Models\\ShoppingCartViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T01:40:35.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShoppingCartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ShoppingCartItem.cs",
-              "RelativeDocumentMoniker": "HOT3\\Models\\ShoppingCartItem.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ShoppingCartItem.cs",
-              "RelativeToolTip": "HOT3\\Models\\ShoppingCartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T01:39:18.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HOT3\\Views\\Shared\\_Layout.cshtml",
@@ -255,6 +147,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HOT3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T23:28:06.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "HOT3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T23:29:17.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "_UserLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\Shared\\_UserLayout.cshtml",
               "RelativeDocumentMoniker": "HOT3\\Views\\Shared\\_UserLayout.cshtml",
@@ -267,33 +185,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductContext.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ProductContext.cs",
-              "RelativeDocumentMoniker": "HOT3\\Models\\ProductContext.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ProductContext.cs",
-              "RelativeToolTip": "HOT3\\Models\\ProductContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Program.cs",
+              "RelativeDocumentMoniker": "HOT3\\Program.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Program.cs",
+              "RelativeToolTip": "HOT3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T19:22:36.092Z",
+              "WhenOpened": "2025-10-12T19:22:52.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\CardSleeve\\Detail.cshtml",
-              "RelativeDocumentMoniker": "HOT3\\Views\\CardSleeve\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\CardSleeve\\Detail.cshtml",
-              "RelativeToolTip": "HOT3\\Views\\CardSleeve\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\appsettings.json",
+              "RelativeDocumentMoniker": "HOT3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\appsettings.json",
+              "RelativeToolTip": "HOT3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T19:19:23.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\ShoppingCart\\ViewCart.cshtml",
+              "RelativeDocumentMoniker": "HOT3\\Views\\ShoppingCart\\ViewCart.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\ShoppingCart\\ViewCart.cshtml",
+              "RelativeToolTip": "HOT3\\Views\\ShoppingCart\\ViewCart.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCsAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T01:44:29.767Z",
+              "WhenOpened": "2025-10-13T02:20:48.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "HOT3\\Views\\_ViewStart.cshtml",
@@ -306,7 +237,149 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ProductContext.cs",
+              "RelativeDocumentMoniker": "HOT3\\Models\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ProductContext.cs",
+              "RelativeToolTip": "HOT3\\Models\\ProductContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:22:36.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\CardSleeve\\Detail.cshtml",
+              "RelativeDocumentMoniker": "HOT3\\Views\\CardSleeve\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\CardSleeve\\Detail.cshtml",
+              "RelativeToolTip": "HOT3\\Views\\CardSleeve\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T01:44:29.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\CardSleeve\\List.cshtml",
+              "RelativeDocumentMoniker": "HOT3\\Views\\CardSleeve\\List.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\CardSleeve\\List.cshtml",
+              "RelativeToolTip": "HOT3\\Views\\CardSleeve\\List.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwDEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T20:53:53.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HOT3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T23:26:53.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "HOT3\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "HOT3\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwv2MAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:57:58.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "HOT3\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "HOT3\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:39:18.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ShoppingCartViewModel.cs",
+              "RelativeDocumentMoniker": "HOT3\\Models\\ShoppingCartViewModel.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\ShoppingCartViewModel.cs",
+              "RelativeToolTip": "HOT3\\Models\\ShoppingCartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:40:35.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CardSleeveController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Controllers\\CardSleeveController.cs",
+              "RelativeDocumentMoniker": "HOT3\\Controllers\\CardSleeveController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Controllers\\CardSleeveController.cs",
+              "RelativeToolTip": "HOT3\\Controllers\\CardSleeveController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:46:19.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "HOT3\\Models\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "HOT3\\Models\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T02:47:59.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "HOT3\\Models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\Purchase.cs",
+              "RelativeToolTip": "HOT3\\Models\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:44:34.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20251013044737_AddedPurchases.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Migrations\\20251013044737_AddedPurchases.cs",
+              "RelativeDocumentMoniker": "HOT3\\Migrations\\20251013044737_AddedPurchases.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Migrations\\20251013044737_AddedPurchases.cs",
+              "RelativeToolTip": "HOT3\\Migrations\\20251013044737_AddedPurchases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:47:38.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HOT3\\Views\\Home\\Index.cshtml",
@@ -314,12 +387,11 @@
               "RelativeToolTip": "HOT3\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T22:09:09.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T22:09:09.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\CardSleeve\\Delete.cshtml",
               "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Views\\CardSleeve\\Delete.cshtml",
@@ -332,70 +404,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Program.cs",
-              "RelativeDocumentMoniker": "HOT3\\Program.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Program.cs",
-              "RelativeToolTip": "HOT3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T19:22:52.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
               "Title": "CardSleeveController.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Controllers\\CardSleeveController.cs",
               "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Controllers\\CardSleeveController.cs",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Controllers\\CardSleeveController.cs",
               "RelativeToolTip": "HOT3\\Areas\\Admin\\Controllers\\CardSleeveController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwD8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T23:44:08.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "HOT3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T23:28:06.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "HOT3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T23:29:17.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\CardSleeve\\List.cshtml",
-              "RelativeDocumentMoniker": "HOT3\\Views\\CardSleeve\\List.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Views\\CardSleeve\\List.cshtml",
-              "RelativeToolTip": "HOT3\\Views\\CardSleeve\\List.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAB6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T20:53:53.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -403,11 +425,12 @@
               "RelativeToolTip": "HOT3\\Areas\\Admin\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T23:35:42.404Z"
+              "WhenOpened": "2025-10-12T23:35:42.404Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -415,23 +438,12 @@
               "RelativeToolTip": "HOT3\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T23:36:03.289Z"
+              "WhenOpened": "2025-10-12T23:36:03.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "HOT3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T23:26:53.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "HOT3\\ScaffoldingReadMe.txt",
@@ -439,37 +451,37 @@
               "RelativeToolTip": "HOT3\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-12T18:34:22.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T18:34:22.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "AddEdit.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\CardSleeve\\AddEdit.cshtml",
               "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Views\\CardSleeve\\AddEdit.cshtml",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\CardSleeve\\AddEdit.cshtml",
               "RelativeToolTip": "HOT3\\Areas\\Admin\\Views\\CardSleeve\\AddEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-13T00:04:05.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 5,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\CardSleeve\\List.cshtml",
               "RelativeDocumentMoniker": "HOT3\\Areas\\Admin\\Views\\CardSleeve\\List.cshtml",
               "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Areas\\Admin\\Views\\CardSleeve\\List.cshtml",
               "RelativeToolTip": "HOT3\\Areas\\Admin\\Views\\CardSleeve\\List.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T23:48:37.969Z"
+              "WhenOpened": "2025-10-12T23:48:37.969Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "dbo.Products.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HOT3/True/SqlTable/dbo.Products.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HOT3/True/SqlTable/dbo.Products.sql",
@@ -478,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "20251012213605_AdditionalBrands.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Migrations\\20251012213605_AdditionalBrands.cs",
               "RelativeDocumentMoniker": "HOT3\\Migrations\\20251012213605_AdditionalBrands.cs",
@@ -490,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "20251012200915_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Migrations\\20251012200915_Initial.cs",
               "RelativeDocumentMoniker": "HOT3\\Migrations\\20251012200915_Initial.cs",
@@ -499,52 +511,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T20:09:15.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\appsettings.json",
-              "RelativeDocumentMoniker": "HOT3\\appsettings.json",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\appsettings.json",
-              "RelativeToolTip": "HOT3\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-12T19:19:23.81Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "9902af89-4833-4974-9d91-4b153d966849",
-        "Display": 1,
-        "X": 182,
-        "Y": 337,
-        "Width": 1573,
-        "Height": 829,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "HOT3\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\HandsOnTests\\HOT3\\HOT3\\HOT3\\Models\\Product.cs",
-              "RelativeToolTip": "HOT3\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T18:36:09.429Z",
-              "EditorCaption": ""
             }
           ]
         }
