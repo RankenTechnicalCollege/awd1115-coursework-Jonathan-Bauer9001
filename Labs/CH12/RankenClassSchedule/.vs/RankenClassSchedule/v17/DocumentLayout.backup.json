@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\class\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\class\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\class\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\class\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\models\\datalayer\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\models\\datalayer\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\rankenclassschedule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\rankenclassschedule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\artif\\source\\repos\\ranken\\awd1115-coursework-jonathan-bauer9001\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{891478EA-4381-4AAA-9ECB-A1330548BA8C}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Class\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Class\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Class\\Delete.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Class\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T03:03:23.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Models\\DataLayer\\Repository.cs",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Models\\DataLayer\\Repository.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Models\\DataLayer\\Repository.cs",
+              "RelativeToolTip": "RankenClassSchedule\\Models\\DataLayer\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:43:31.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RankenClassSchedule",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\RankenClassSchedule.csproj",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\RankenClassSchedule.csproj",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\RankenClassSchedule.csproj",
+              "RelativeToolTip": "RankenClassSchedule\\RankenClassSchedule.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T02:34:22.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T02:21:02.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "RankenClassSchedule\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:16:45.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T02:12:29.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T02:06:25.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T02:02:34.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T01:59:21.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "RankenClassSchedule\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T01:39:41.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T01:16:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T01:15:23.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Artif\\source\\repos\\Ranken\\awd1115-coursework-Jonathan-Bauer9001\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RankenClassSchedule\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:21:50.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
